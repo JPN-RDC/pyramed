@@ -2,7 +2,7 @@
 
 Démonstration de la plateforme nationale de formation certifiante en chaîne d'approvisionnement des produits de santé, proposée à l'Agence Nationale du Médicament (ANAMED) de la République démocratique du Congo.
 
-**Accès :** https://paolo-star.github.io/pyramed/
+**Accès :** https://pyramed.jpnconsultant.com
 
 Contenu de la démonstration : page d'accès avec comptes personnels, parcours par corps de métier, formations vidéo narrées (pré-test, vidéo, test final au seuil de 85 %), certificat nominatif vérifiable par code QR, version audio et transcription pour les connexions faibles, espace administrateur.
 
