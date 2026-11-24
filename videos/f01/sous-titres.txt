@@ -1,0 +1,1321 @@
+WEBVTT
+
+00:00.000 --> 00:10.355
+Mesdames et Messieurs, chers collègues, bienvenue dans cette formation consacrée à la supervision logistique conjointe et à la coordination des unités techniques de gestion logistique.
+
+00:10.405 --> 00:19.177
+Quatre documents nous accompagnent la procédure de supervision, le guide de gouvernance, la fiche technique et l’aide-mémoire de la réunion de coordination.
+
+00:19.227 --> 00:21.212
+La supervision produit des constats.
+
+00:21.262 --> 00:25.963
+La coordination les transforme en décisions, puis en actions suivies sur le terrain.
+
+00:26.013 --> 00:28.790
+C’est ce lien que nous allons construire ensemble.
+
+00:28.840 --> 00:35.710
+Cette formation a été préparée par JPN Management Consulting pour l’ANAMED.
+
+00:39.000 --> 00:39.630
+Notre parcours comporte cinq modules.
+
+00:39.680 --> 00:43.190
+Nous commencerons par les enjeux et le rôle des quatre documents.
+
+00:43.240 --> 00:47.230
+Nous examinerons ensuite les six étapes de la supervision conjointe.
+
+00:47.280 --> 00:51.190
+Le troisième module précisera les responsabilités aux différents niveaux.
+
+00:51.240 --> 00:55.750
+Le quatrième réunira les outils, les indicateurs et un cas pratique.
+
+00:55.800 --> 00:59.230
+Enfin, quinze questions vous permettront de vérifier vos acquis.
+
+00:59.280 --> 01:04.470
+Les durées inscrites sur cette diapositive correspondent à une séance collective avec échanges.
+
+01:04.520 --> 01:09.790
+Cette vidéo propose un parcours autonome mettez-la en pause lorsque vous souhaitez approfondir un point.
+
+01:13.000 --> 01:18.110
+À l’issue de cette formation, vous devrez savoir quel document utiliser et à quel moment.
+
+01:18.160 --> 01:27.390
+Vous pourrez conduire une supervision en respectant les six étapes prévues, calculer les principaux indicateurs, puis transformer un constat en décision suivie.
+
+01:27.440 --> 01:35.830
+Pour chaque décision, retenez quatre éléments une action précise, un responsable, une échéance et une preuve de réalisation.
+
+01:35.880 --> 01:39.750
+Ces éléments permettent de vérifier que la coordination produit un changement concret.
+
+01:42.960 --> 01:51.783
+Pourquoi superviser et se coordonner Pour garantir la disponibilité des produits, améliorer la fiabilité des données et accompagner les équipes.
+
+01:51.833 --> 01:54.124
+Une visite ne suffit pas à elle seule.
+
+01:54.174 --> 01:59.670
+Il faut examiner ses constats, décider des mesures correctives et suivre leur réalisation.
+
+01:59.720 --> 02:04.550
+Une recommandation sans responsable ni échéance risque de rester sans effet.
+
+02:04.600 --> 02:09.870
+Ce premier module relie donc les besoins du terrain aux quatre documents de référence.
+
+02:13.040 --> 02:16.430
+Quatre repères structurent le suivi présenté dans le support.
+
+02:16.480 --> 02:21.710
+Au moins quatre-vingts pour cent des zones de santé planifiées doivent être supervisées chaque trimestre.
+
+02:21.760 --> 02:29.670
+Le rapport est transmis à la Division provinciale de la santé sous soixante-douze heures, puis aux UTGL du niveau central sous cinq jours.
+
+02:29.720 --> 02:34.110
+Au moins soixante-dix pour cent des recommandations de supervision doivent être mises en œuvre.
+
+02:34.160 --> 02:39.470
+Enfin, la fiche technique fixe une cible de quatre-vingt-quinze pour cent de réunions provinciales tenues.
+
+02:39.520 --> 02:44.910
+Attention à toujours préciser le périmètre, la formule et la source de chaque indicateur.
+
+02:48.080 --> 02:50.190
+Cette grille permet de préparer l’action.
+
+02:50.240 --> 02:55.270
+Pourquoi ? Pour assurer la disponibilité des intrants et la qualité des données.
+
+02:55.320 --> 03:00.990
+Quoi ? Une supervision, une restitution, un rapport et un suivi.
+
+03:01.040 --> 03:13.750
+Qui ? Les UTGL du niveau provincial réalisent les visites, la Division provinciale de la santé valide le plan, les zones de santé préparent les données, et les UTGL du niveau central consolident.
+
+03:13.800 --> 03:17.190
+Où ? Dans les structures concernées par le plan.
+
+03:17.240 --> 03:25.070
+Quand ? Selon un rythme mensuel pour la coordination provinciale et trimestriel pour la planification des supervisions.
+
+03:25.120 --> 03:29.070
+Le résultat attendu est une décision applicable, puis vérifiable.
+
+03:32.360 --> 03:34.630
+Les quatre documents se complètent.
+
+03:34.680 --> 03:38.550
+La procédure SOP zéro un prescrit les règles de supervision.
+
+03:38.600 --> 03:42.110
+Le guide zéro un explique la gouvernance et les responsabilités.
+
+03:42.160 --> 03:46.470
+La fiche technique zéro un fournit les outils de la réunion de coordination.
+
+03:46.520 --> 03:49.510
+L’aide-mémoire zéro un rappelle les points essentiels.
+
+03:49.560 --> 03:52.790
+Leurs titres diffèrent, car leurs fonctions diffèrent.
+
+03:52.840 --> 03:58.870
+Retenez cette chaîne la procédure prescrit, le guide explique, la fiche outille et l’aide-mémoire rappelle.
+
+03:58.920 --> 04:03.070
+Une divergence doit être signalée aux UTGL du niveau central.
+
+04:03.120 --> 04:06.710
+Pour les règles de supervision, la procédure de référence prévaut.
+
+04:10.000 --> 04:16.990
+Qui utilise quel document Les responsables et les auditeurs se réfèrent à la procédure pour vérifier les exigences.
+
+04:17.040 --> 04:23.070
+Les équipes provinciales et les formateurs utilisent le guide pour comprendre les rôles et le circuit de validation.
+
+04:23.120 --> 04:26.350
+Le coordonnateur prépare la réunion avec la fiche technique.
+
+04:26.400 --> 04:30.150
+Chaque participant peut conserver l’aide-mémoire comme repère rapide.
+
+04:30.200 --> 04:35.190
+Avant d’appliquer une règle, vérifiez toujours la version du document et son champ d’application.
+
+04:35.240 --> 04:40.190
+Un aide-mémoire facilite l’usage, mais ne remplace pas le texte de référence.
+
+04:43.400 --> 04:44.910
+Suivons maintenant un trimestre.
+
+04:44.960 --> 04:49.870
+La visite entre d’abord dans un plan validé par la Division provinciale de la santé.
+
+04:49.920 --> 04:54.110
+Avant la mission, l’équipe vérifie les responsabilités et prépare les outils.
+
+04:54.160 --> 05:00.070
+Sur place, elle examine les stocks, les documents et la cohérence des données, puis restitue ses constats.
+
+05:00.120 --> 05:06.870
+Le rapport part à la Division provinciale sous soixante-douze heures et aux UTGL du niveau central sous cinq jours.
+
+05:06.920 --> 05:10.830
+À la réunion suivante, les constats deviennent des actions attribuées.
+
+05:10.880 --> 05:13.550
+Le suivi permet ensuite de vérifier leur réalisation.
+
+05:16.800 --> 05:25.894
+La supervision conjointe comprend six étapes planifier, préparer, conduire la visite, restituer, produire le rapport et suivre les recommandations.
+
+05:25.944 --> 05:28.880
+Chaque étape doit aboutir à un résultat concret.
+
+05:28.930 --> 05:34.790
+L’approche reste formative le superviseur accompagne le personnel pour améliorer ses pratiques.
+
+05:34.840 --> 05:40.830
+La qualité de la relation avec l’équipe facilite l’identification des difficultés et la mise en œuvre des solutions.
+
+05:44.120 --> 05:46.310
+Première étape, la planification.
+
+05:46.360 --> 05:55.470
+Les UTGL du niveau provincial préparent le plan trimestriel, et la Division provinciale de la santé valide les dates et les priorités.
+
+05:55.520 --> 05:57.110
+Deuxième étape, la préparation.
+
+05:57.160 --> 06:05.550
+L’équipe rassemble les listes de contrôle, les rapports précédents, les données et le registre des risques.
+
+06:05.600 --> 06:07.790
+Troisième étape, le déroulement.
+
+06:07.840 --> 06:14.390
+Elle revoit les recommandations antérieures, contrôle les outils et les stocks, puis échange avec le personnel.
+
+06:14.440 --> 06:17.390
+Quatrième étape, la restitution sur place.
+
+06:17.440 --> 06:21.230
+Les constats sont discutés et le plan d’action est construit ensemble.
+
+06:21.280 --> 06:23.270
+Cinquième étape, le rapport.
+
+06:23.320 --> 06:27.990
+Il présente les faits, les risques et les recommandations.
+
+06:28.040 --> 06:30.270
+Sixième étape, le suivi et la clôture.
+
+06:30.320 --> 06:35.270
+Chaque action doit avoir un responsable, un délai et une preuve de réalisation.
+
+06:38.520 --> 06:40.630
+Cinq règles guident la visite.
+
+06:40.680 --> 06:43.270
+Elle figure dans le plan trimestriel validé.
+
+06:43.320 --> 06:45.990
+Les constats reposent sur des preuves vérifiables.
+
+06:46.040 --> 06:50.590
+Le contrôle associe les entretiens, le comptage physique et l’analyse des outils.
+
+06:50.640 --> 06:52.470
+La restitution se fait sur place, avec l’équipe.
+
+06:52.520 --> 07:01.350
+Enfin, le rapport respecte les délais : soixante-douze heures pour la Division provinciale de la santé et cinq jours pour les UTGL du niveau central.
+
+07:01.400 --> 07:04.190
+La restitution est un moment de formation.
+
+07:04.240 --> 07:08.270
+Elle permet de comprendre les écarts et de convenir de mesures réalisables.
+
+07:11.560 --> 07:17.350
+La supervision conjointe et la supervision intégrée ont des périmètres distincts dans ce support.
+
+07:17.400 --> 07:26.390
+La supervision conjointe réunit au moins deux niveaux ou entités et porte notamment sur la disponibilité, les données et les procédures de stock.
+
+07:26.440 --> 07:33.630
+La supervision intégrée élargit l’examen à la performance logistique globale et associe les programmes prioritaires.
+
+07:33.680 --> 07:37.470
+Le support signale des différences de formulation dans les documents associés.
+
+07:37.520 --> 07:39.990
+Elles doivent être remontées pour harmonisation.
+
+07:40.040 --> 07:46.550
+Pour appliquer la supervision conjointe, référez-vous à la définition de la procédure SOP zéro un.
+
+07:49.760 --> 07:54.166
+Qui fait quoi ? Les UTGL du niveau central sont intégrées à l’ANAMED.
+
+07:54.216 --> 07:59.591
+Les UTGL du niveau provincial sont rattachées à la Division provinciale de la santé.
+
+07:59.641 --> 08:04.499
+Les zones de santé mettent en œuvre les actions au plus près des structures.
+
+08:04.549 --> 08:11.990
+Selon le cadre présenté dans cette formation, le comité de pilotage donne un avis stratégique pendant la transition.
+
+08:12.040 --> 08:16.630
+La Direction de l’ANAMED demeure l’autorité permanente d’approbation.
+
+08:16.680 --> 08:22.190
+Il faut distinguer cet avis, la validation technique et l’approbation institutionnelle.
+
+08:25.440 --> 08:28.430
+La matrice RACI précise les responsabilités.
+
+08:28.480 --> 08:31.990
+La lettre R désigne le responsable de l’exécution.
+
+08:32.040 --> 08:34.630
+La lettre A désigne l’approbateur.
+
+08:34.680 --> 08:39.070
+C indique une personne consultée et I une personne informée.
+
+08:39.120 --> 08:48.070
+Sur la ligne de la supervision logistique, les UTGL du niveau provincial sont responsables et la Division provinciale de la santé approuve.
+
+08:48.120 --> 08:52.670
+Le support attire l’attention sur certaines lignes comportant deux approbateurs.
+
+08:52.720 --> 09:00.190
+La validation technique et l’approbation institutionnelle doivent alors être explicitement distinguées dans la version en vigueur.
+
+09:00.240 --> 09:03.750
+Ne tranchez pas cette ambiguïté par une interprétation individuelle.
+
+09:07.000 --> 09:14.670
+Les UTGL du niveau central, intégrées à l’ANAMED, fournissent les outils, consolident les rapports et organisent l’appui.
+
+09:14.720 --> 09:23.030
+Au niveau provincial, l’équipe prépare le plan trimestriel, réalise les visites et anime le suivi avec la Division provinciale de la santé.
+
+09:23.080 --> 09:31.950
+Dans les zones et les formations sanitaires, les agents présentent les registres et les stocks, expliquent les écarts et mettent en œuvre les recommandations.
+
+09:32.000 --> 09:36.350
+Le binôme provincial associe les compétences pharmaceutiques et informatiques.
+
+09:36.400 --> 09:42.390
+Une absence durable de l’une de ces compétences doit être signalée comme un risque pour l’exécution du programme.
+
+09:45.600 --> 09:48.350
+L’appui descend et l’information remonte.
+
+09:48.400 --> 09:54.070
+Du niveau central vers les provinces circulent les outils et l’accompagnement technique.
+
+09:54.120 --> 09:58.750
+Des provinces vers les zones circulent la supervision et le retour d’information.
+
+09:58.800 --> 10:03.150
+Dans l’autre sens remontent les données, les rapports et les alertes.
+
+10:03.200 --> 10:05.350
+Ces deux mouvements sont complémentaires.
+
+10:05.400 --> 10:09.550
+Une structure qui transmet des informations doit recevoir un retour utile.
+
+10:09.600 --> 10:16.790
+La consolidation nationale dépend de données de terrain documentées, vérifiées et transmises selon le calendrier prévu.
+
+10:20.040 --> 10:26.550
+Avant la visite, vérifiez le plan validé, la lettre officielle, le préavis et les données disponibles.
+
+10:26.600 --> 10:30.150
+Relisez les recommandations précédentes et le registre des risques.
+
+10:30.200 --> 10:38.430
+Pendant la visite, comptez les stocks avec le gestionnaire, comparez le physique aux documents et contrôlez la rotation selon les dates de péremption.
+
+10:38.480 --> 10:40.470
+Restituez les constats sur place.
+
+10:40.520 --> 10:45.390
+Après la visite, transmettez le rapport dans les délais et organisez le suivi.
+
+10:45.440 --> 10:49.230
+Un entretien à distance peut préparer une mission ou suivre une action.
+
+10:49.280 --> 10:52.790
+Il ne permet pas, à lui seul, de vérifier un stock physique.
+
+10:56.000 --> 10:59.171
+Nous allons maintenant relier les outils aux décisions.
+
+10:59.221 --> 11:07.544
+Nous verrons la liste de contrôle, le tableau des recommandations, le rapport, le procès-verbal, le registre des risques et le tableau de bord.
+
+11:07.594 --> 11:11.350
+Nous examinerons ensuite les indicateurs et un exemple de calcul.
+
+11:11.400 --> 11:15.830
+La traçabilité est essentielle les documents doivent pouvoir être retrouvés.
+
+11:15.880 --> 11:21.670
+Le support prévoit un archivage selon la procédure SOP quatorze, pendant au moins cinq ans.
+
+11:24.880 --> 11:28.150
+La liste de contrôle guide les observations.
+
+11:28.200 --> 11:33.670
+Le tableau des recommandations suit l’action, le responsable, le délai et le statut.
+
+11:33.720 --> 11:36.870
+Le rapport standard restitue les constats et les priorités.
+
+11:36.920 --> 11:41.070
+Le procès-verbal conserve les décisions de la réunion et la liste de présence.
+
+11:41.120 --> 11:44.710
+Le registre des risques relie les menaces aux mesures de maîtrise.
+
+11:44.760 --> 11:49.590
+Enfin, le tableau de bord présente les résultats mensuels et trimestriels.
+
+11:49.640 --> 11:51.350
+Utilisez les modèles standards.
+
+11:51.400 --> 11:57.910
+Si un modèle local diffère, comparez-le au modèle national et signalez les écarts avant de modifier les règles.
+
+12:01.160 --> 12:04.190
+L’ordre du jour de coordination comporte six blocs.
+
+12:04.240 --> 12:08.070
+L’ouverture permet de valider l’agenda et de revoir les actions précédentes.
+
+12:08.120 --> 12:11.430
+Les indicateurs montrent ensuite les résultats et les écarts.
+
+12:11.480 --> 12:15.990
+Viennent la quantification et les commandes, puis la supervision et le mentorat.
+
+12:16.040 --> 12:20.110
+Les risques et les alertes appellent les arbitrages nécessaires.
+
+12:20.160 --> 12:22.310
+Enfin, la réunion fixe les prochaines actions.
+
+12:22.360 --> 12:26.830
+Avant de conclure, relisez les décisions avec leurs responsables et leurs échéances.
+
+12:26.880 --> 12:31.430
+La réunion produit ainsi un engagement vérifiable, consigné dans le procès-verbal.
+
+12:34.680 --> 12:36.950
+Cinq indicateurs suivent la supervision.
+
+12:37.000 --> 12:40.590
+Le taux de zones supervisées vise au moins quatre-vingts pour cent.
+
+12:40.640 --> 12:45.030
+Le taux de recommandations de supervision mises en œuvre vise au moins soixante-dix pour cent.
+
+12:45.080 --> 12:48.110
+La conformité du stockage vise quatre-vingt-cinq pour cent.
+
+12:48.160 --> 12:51.350
+La concordance des stocks vise quatre-vingt-quinze pour cent.
+
+12:51.400 --> 12:56.550
+Le rapport est soumis aux UTGL du niveau central dans un délai maximal de cinq jours.
+
+12:56.600 --> 13:00.470
+Pour les pourcentages, vérifiez le numérateur et le dénominateur.
+
+13:00.520 --> 13:03.750
+Pour le délai, calculez une différence entre deux dates.
+
+13:03.800 --> 13:08.510
+Une comparaison n’a de sens que si les périodes et les définitions sont identiques.
+
+13:11.760 --> 13:14.670
+Les réunions ont leurs propres indicateurs.
+
+13:14.720 --> 13:18.270
+La cible de réunions tenues est de quatre-vingt-quinze pour cent.
+
+13:18.320 --> 13:22.030
+Celle des actions de réunion mises en œuvre est de quatre-vingts pour cent.
+
+13:22.080 --> 13:28.390
+La convocation et l’ordre du jour sont transmis soixante-douze heures avant la réunion, et le procès-verbal sous cinq jours ouvrables.
+
+13:28.440 --> 13:36.950
+Une divergence demeure sur la participation quatre-vingt-cinq pour cent des membres dans la fiche technique, contre quatre-vingt-dix pour cent des structures dans l’aide-mémoire.
+
+13:37.000 --> 13:38.510
+Ces dénominateurs diffèrent.
+
+13:38.560 --> 13:42.910
+Présentez séparément les deux mesures et demandez une harmonisation officielle.
+
+13:42.960 --> 13:49.590
+Un objectif de mobilisation de quatre-vingt-dix pour cent ne résout pas, à lui seul, cette différence de définition.
+
+13:52.880 --> 13:54.910
+Calculons la concordance du stock.
+
+13:54.960 --> 14:00.350
+Le stock théorique est de deux mille boîtes et le comptage physique donne mille huit cent quarante.
+
+14:00.400 --> 14:02.710
+L’écart absolu est de cent soixante boîtes.
+
+14:02.760 --> 14:06.710
+Rapporté au stock théorique, il représente huit pour cent.
+
+14:06.760 --> 14:11.950
+La concordance est donc égale à cent moins huit, soit quatre-vingt-douze pour cent.
+
+14:12.000 --> 14:14.710
+Elle reste sous la cible de quatre-vingt-quinze pour cent.
+
+14:14.760 --> 14:19.670
+Il faut vérifier les mouvements, rechercher la cause et tracer une action corrective.
+
+14:19.720 --> 14:25.830
+Si le stock théorique est nul, cette formule ne peut pas être appliquée le cas doit être analysé séparément.
+
+14:29.080 --> 14:31.990
+Plusieurs risques peuvent compromettre la coordination.
+
+14:32.040 --> 14:37.910
+Une faible participation appelle une convocation anticipée et un suivi des confirmations.
+
+14:37.960 --> 14:43.030
+Des décisions non exécutées nécessitent une matrice des actions et des relances.
+
+14:43.080 --> 14:47.910
+Un procès-verbal tardif exige une responsabilité de rédaction clairement attribuée.
+
+14:47.960 --> 14:53.950
+Le support présente également des constats provinciaux provisoires, à valider par les équipes concernées.
+
+14:54.000 --> 14:56.470
+Ils ne constituent pas une cotation définitive.
+
+14:56.520 --> 15:02.390
+Tout risque critique doit être inscrit au registre et signalé selon le circuit d’alerte prévu.
+
+15:05.640 --> 15:14.990
+Les bonnes pratiques sont simples planifier, prévenir les structures, compter avec le gestionnaire, conserver les preuves et restituer avant le départ.
+
+15:15.040 --> 15:22.190
+Chaque recommandation comporte une action précise, un responsable, une échéance et une preuve de clôture.
+
+15:22.240 --> 15:28.190
+À l’inverse, une visite sans liste de contrôle ou sans restitution affaiblit la qualité du suivi.
+
+15:28.240 --> 15:33.310
+Après deux relances sans résultat, le support prévoit une remontée à l’instance supérieure.
+
+15:33.360 --> 15:38.670
+L’accompagnement doit rester constructif comprendre les causes permet de choisir une solution réaliste.
+
+15:41.920 --> 15:44.070
+Le rythme de travail relie trois horizons.
+
+15:44.120 --> 15:50.750
+Chaque mois, la réunion provinciale et le suivi des recommandations permettent d’ajuster les actions.
+
+15:50.800 --> 15:57.910
+Chaque trimestre, le plan de supervision, les visites et la consolidation nationale donnent une vision des progrès et des difficultés.
+
+15:57.960 --> 16:03.950
+Chaque année, l’évaluation et la mise à jour du plan de renforcement permettent de capitaliser les acquis.
+
+16:04.000 --> 16:06.870
+Inscrivez ces rendez-vous dans un calendrier partagé.
+
+16:06.920 --> 16:12.070
+Le suivi doit se poursuivre entre les réunions, sans attendre la prochaine revue trimestrielle.
+
+16:15.280 --> 16:16.630
+Voici un cas fictif.
+
+16:16.680 --> 16:22.630
+Sept zones sur douze ont été supervisées et neuf recommandations sur vingt ont été réalisées.
+
+16:22.680 --> 16:26.990
+Calculez les deux taux et comparez les quatre résultats aux cibles.
+
+16:27.040 --> 16:28.470
+Vous pouvez mettre la vidéo en pause.
+
+16:28.520 --> 16:35.670
+Voici la lecture des résultats sept divisé par douze donne environ cinquante-huit virgule trois pour cent.
+
+16:35.720 --> 16:37.590
+Neuf divisé par vingt donne quarante-cinq pour cent.
+
+16:37.640 --> 16:45.350
+La concordance de quatre-vingt-onze pour cent est également sous sa cible, et le rapport transmis en huit jours dépasse le délai de cinq jours.
+
+16:45.400 --> 16:47.470
+Aucun indicateur n’atteint sa cible.
+
+16:47.520 --> 16:54.030
+Recherchez les causes à partir de preuves, puis retenez des actions avec responsable, échéance et preuve de clôture.
+
+16:57.200 --> 17:00.074
+Avant l’évaluation, retenons les messages essentiels.
+
+17:00.124 --> 17:02.722
+Les quatre documents forment une chaîne d’usage.
+
+17:02.772 --> 17:07.190
+La supervision conjointe et la supervision intégrée ont des périmètres distincts.
+
+17:07.240 --> 17:11.590
+La restitution se fait sur place, avant la transmission du rapport.
+
+17:11.640 --> 17:17.790
+La concordance vise au moins quatre-vingt-quinze pour cent et les écarts appellent une investigation documentée.
+
+17:17.840 --> 17:21.510
+Le procès-verbal trace les décisions et leur suivi.
+
+17:21.560 --> 17:28.070
+Enfin, le support distingue l’avis stratégique du comité de pilotage de l’approbation par la Direction de l’ANAMED.
+
+17:31.280 --> 17:45.790
+Cette diapositive rassemble les références citées par le support les normes de management, de gestion des risques et de traçabilité, les références de l’Organisation mondiale de la santé et des partenaires, puis les documents nationaux et les procédures liées.
+
+17:45.840 --> 17:49.870
+Utilisez ces références pour approfondir un point et retrouver son fondement.
+
+17:49.920 --> 17:57.310
+Avant toute application institutionnelle, vérifiez l’édition, la version et le statut de validation du document concerné.
+
+17:57.360 --> 18:00.990
+La vidéo reprend le cadre pédagogique du PowerPoint fourni.
+
+18:04.280 --> 18:06.830
+Les prochaines étapes répartissent les engagements.
+
+18:06.880 --> 18:12.390
+Le niveau central diffuse les outils, consolide les rapports et traite les besoins d’harmonisation.
+
+18:12.440 --> 18:16.470
+Le niveau provincial prépare les visites et organise le suivi des actions.
+
+18:16.520 --> 18:21.110
+Les zones de santé et les structures préparent leurs données et réalisent les corrections convenues.
+
+18:21.160 --> 18:25.630
+La Direction de l’ANAMED exerce l’approbation prévue par le cadre présenté.
+
+18:25.680 --> 18:29.430
+Avant de passer au quiz, choisissez une action applicable à votre unité.
+
+18:29.480 --> 18:34.750
+Notez son responsable, son échéance et la preuve qui permettra de vérifier sa réalisation.
+
+18:38.000 --> 18:40.375
+Passons à la vérification des acquis.
+
+18:40.425 --> 18:43.848
+Quinze questions couvrent les thèmes de la formation.
+
+18:43.898 --> 18:47.911
+Pour chacune, choisissez une seule réponse et notez sa lettre.
+
+18:47.961 --> 18:53.350
+Après la lecture des propositions, vous disposerez de quinze secondes de réflexion.
+
+18:53.400 --> 18:56.390
+Mettez la vidéo en pause si vous souhaitez plus de temps.
+
+18:56.440 --> 19:00.710
+Toutes les corrections et leurs explications seront présentées après la dernière question.
+
+19:04.480 --> 19:10.990
+Dans quel délai le rapport de supervision est-il transmis à la D P S, selon la procédure zéro un A.
+
+19:11.040 --> 19:13.750
+Dans les 72 heures.
+
+19:13.800 --> 19:14.550
+B.
+
+19:14.600 --> 19:16.070
+Dans les 24 heures.
+
+19:16.120 --> 19:16.870
+C.
+
+19:16.920 --> 19:18.950
+Dans les 5 jours.
+
+19:19.000 --> 19:19.160
+D.
+
+19:19.160 --> 19:20.750
+Dans les 7 jours.
+
+19:20.800 --> 19:24.070
+Vous avez quinze secondes pour choisir votre réponse.
+
+19:39.720 --> 19:48.030
+Qu’est-ce qui distingue la supervision conjointe procédure zéro un de la supervision intégrée SOP-07 A.
+
+19:48.080 --> 19:52.830
+La conjointe est annuelle, l’intégrée est mensuelle.
+
+19:52.880 --> 19:53.790
+B.
+
+19:53.840 --> 19:58.630
+La conjointe est réservée au niveau central, l’intégrée au niveau provincial.
+
+19:58.680 --> 19:58.980
+C.
+
+19:59.000 --> 20:08.270
+La conjointe est centrée sur disponibilité, données et procédures de stock avec au moins deux niveaux l’intégrée élargit à la performance globale et aux programmes.
+
+20:08.320 --> 20:09.110
+D.
+
+20:09.160 --> 20:12.510
+Il n’y a aucune différence, les deux termes sont synonymes.
+
+20:12.560 --> 20:15.830
+Vous avez quinze secondes pour choisir votre réponse.
+
+20:31.480 --> 20:38.310
+Qui détient l’autorité d’approbation permanente des livrables, rapports et décisions UTGL A.
+
+20:38.360 --> 20:42.950
+Le comité de pilotage ANAMED, SANRU, Fonds mondial.
+
+20:43.000 --> 20:43.670
+B.
+
+20:43.720 --> 20:47.310
+La Direction ANAMED Comité de Direction C.
+
+20:47.360 --> 20:50.350
+Le partenaire qui finance la subvention.
+
+20:50.400 --> 20:50.560
+D.
+
+20:50.560 --> 20:53.150
+La DPS de la province concernée.
+
+20:53.200 --> 20:56.470
+Vous avez quinze secondes pour choisir votre réponse.
+
+21:12.120 --> 21:17.110
+Une zone de santé a un stock théorique de 2 000 boîtes et un stock physique de 1 840.
+
+21:17.160 --> 21:20.910
+Quelle est la concordance et quelle conclusion tirer A.
+
+21:20.960 --> 21:25.470
+92 % au-dessus de la cible de 85 %.
+
+21:25.520 --> 21:26.190
+B.
+
+21:26.240 --> 21:29.550
+98 % cible atteinte.
+
+21:29.600 --> 21:30.630
+C.
+
+21:30.680 --> 21:33.830
+8 % cible atteinte car inférieure à 10 %.
+
+21:33.880 --> 21:34.180
+D.
+
+21:34.200 --> 21:40.390
+92 % sous la cible de 95 %, une recommandation tracée est nécessaire.
+
+21:40.440 --> 21:43.710
+Vous avez quinze secondes pour choisir votre réponse.
+
+21:59.360 --> 22:04.190
+Sur 12 zones de santé planifiées, 9 ont été supervisées ce trimestre.
+
+22:04.240 --> 22:08.430
+Quel est le résultat de l’indicateur et son interprétation A.
+
+22:08.480 --> 22:12.510
+75 % cible de 80 % non atteinte.
+
+22:12.560 --> 22:13.270
+B.
+
+22:13.320 --> 22:15.510
+75 % cible atteinte.
+
+22:15.560 --> 22:16.790
+C.
+
+22:16.840 --> 22:19.710
+80 % cible atteinte de justesse.
+
+22:19.760 --> 22:20.060
+D.
+
+22:20.080 --> 22:23.750
+25 % cible atteinte car l’écart est faible.
+
+22:23.800 --> 22:27.070
+Vous avez quinze secondes pour choisir votre réponse.
+
+22:42.720 --> 22:47.710
+À la réunion mensuelle, 10 actions ont été décidées et 6 sont mises en œuvre.
+
+22:47.760 --> 22:50.070
+Quel est le taux et que faire A.
+
+22:50.120 --> 22:53.350
+40 % cible atteinte car l’écart est faible.
+
+22:53.400 --> 22:53.990
+B.
+
+22:54.040 --> 22:57.510
+60 % au-dessus de la cible de 50 %.
+
+22:57.560 --> 22:57.720
+C.
+
+22:57.720 --> 23:05.270
+60 % sous la cible de 80 %, analyser les causes et revoir responsables et échéances.
+
+23:05.320 --> 23:05.790
+D.
+
+23:05.840 --> 23:08.590
+100 % les 6 actions suffisent.
+
+23:08.640 --> 23:11.910
+Vous avez quinze secondes pour choisir votre réponse.
+
+23:27.560 --> 23:34.910
+Une zone de santé refuse d’être supervisée surcharge de travail, médecin chef de zone absent, carburant manquant.
+
+23:34.960 --> 23:38.070
+Le plan trimestriel a été validé par la DPS.
+
+23:38.120 --> 23:40.790
+Que faire pour lever le blocage A.
+
+23:40.840 --> 23:44.950
+Attendre la prochaine réunion trimestrielle sans rien changer.
+
+23:45.000 --> 23:45.160
+B.
+
+23:45.160 --> 23:51.870
+Mobiliser la D P S lettre officielle, calendrier pré-validé, engagements minimum inscrits au PV.
+
+23:51.920 --> 23:52.510
+C.
+
+23:52.560 --> 23:56.550
+Superviser quand même sans prévenir la zones de santé.
+
+23:56.600 --> 23:57.030
+D.
+
+23:57.080 --> 24:00.390
+Remplacer la visite par un entretien téléphonique définitif.
+
+24:00.440 --> 24:03.710
+Vous avez quinze secondes pour choisir votre réponse.
+
+24:19.360 --> 24:24.110
+Trois trimestres de supervision 20 recommandations émises, 9 mises en œuvre.
+
+24:24.160 --> 24:27.470
+Aucune n’indique un responsable ni un délai précis.
+
+24:27.520 --> 24:32.270
+Quelle est la meilleure décision des UTGL du niveau provincial ? A.
+
+24:32.320 --> 24:37.670
+Classer les recommandations car la SOP ne prévoit pas de suivi.
+
+24:37.720 --> 24:38.020
+B.
+
+24:38.040 --> 24:42.350
+Transférer le suivi au comité de pilotage, qui valide seul.
+
+24:42.400 --> 24:42.560
+C.
+
+24:42.560 --> 24:46.350
+Attendre l’audit annuel pour reprendre les recommandations.
+
+24:46.400 --> 24:46.640
+D.
+
+24:46.640 --> 24:57.030
+Consigner chaque recommandation avec responsable et délai, suivi mensuel par les zones de santé et les UTGL du niveau provincial, consolidation trimestrielle.
+
+24:57.080 --> 25:00.350
+Vous avez quinze secondes pour choisir votre réponse.
+
+25:16.000 --> 25:19.070
+La réunion trimestrielle du comité de pilotage est reportée.
+
+25:19.120 --> 25:24.350
+Un partenaire craint que les rapports trimestriels et les paiements basés sur les livrables soient bloqués.
+
+25:24.400 --> 25:31.350
+Que répondent les UTGL du niveau central au partenaire qui s’inquiète du retard de validation ? A.
+
+25:31.400 --> 25:39.390
+Le comité de pilotage émet un avis stratégique transitoire la Direction ANAMED consolide et approuve on transmet le projet à l’avance.
+
+25:39.440 --> 25:39.790
+B.
+
+25:39.840 --> 25:44.310
+Le comité de pilotage est l’autorité d’approbation permanente et bloque tout.
+
+25:44.360 --> 25:45.390
+C.
+
+25:45.440 --> 25:48.990
+Les livrables sont diffusés sans approbation après 30 jours.
+
+25:49.040 --> 25:49.710
+D.
+
+25:49.760 --> 25:52.390
+Le partenaire approuve à la place de l’ANAMED.
+
+25:52.440 --> 25:55.710
+Vous avez quinze secondes pour choisir votre réponse.
+
+26:11.360 --> 26:16.150
+Quel enchaînement décrit correctement le rôle des quatre documents A.
+
+26:16.200 --> 26:19.590
+L’aide-mémoire approuve et la fiche remplace la SOP.
+
+26:19.640 --> 26:19.940
+B.
+
+26:19.960 --> 26:26.150
+La SOP prescrit, le guide explique, la FT outille et l’AM rappelle.
+
+26:26.200 --> 26:26.910
+C.
+
+26:26.960 --> 26:29.990
+Les quatre documents ont exactement la même fonction.
+
+26:30.040 --> 26:30.830
+D.
+
+26:30.880 --> 26:33.270
+Le guide annule toute règle de la SOP.
+
+26:33.320 --> 26:36.590
+Vous avez quinze secondes pour choisir votre réponse.
+
+26:52.240 --> 26:56.510
+Dans la matrice RACI, que signifie la lettre R A.
+
+26:56.560 --> 26:58.790
+Réviseur externe.
+
+26:58.840 --> 26:59.470
+B.
+
+26:59.520 --> 27:01.070
+Rapporteur de séance.
+
+27:01.120 --> 27:01.750
+C.
+
+27:01.800 --> 27:04.350
+Responsable de l’exécution.
+
+27:04.400 --> 27:04.560
+D.
+
+27:04.560 --> 27:06.230
+Représentant du partenaire.
+
+27:06.280 --> 27:09.550
+Vous avez quinze secondes pour choisir votre réponse.
+
+27:25.200 --> 27:29.110
+Quel ensemble décrit une supervision complète A.
+
+27:29.160 --> 27:35.710
+Planifier, préparer, visiter, restituer, rapporter, suivre et clôturer.
+
+27:35.760 --> 27:35.920
+B.
+
+27:35.920 --> 27:39.550
+Visiter et transmettre oralement les impressions.
+
+27:39.600 --> 27:40.310
+C.
+
+27:40.360 --> 27:43.510
+Faire uniquement un entretien téléphonique.
+
+27:43.560 --> 27:43.720
+D.
+
+27:43.720 --> 27:46.030
+Rédiger un rapport sans restitution.
+
+27:46.080 --> 27:49.350
+Vous avez quinze secondes pour choisir votre réponse.
+
+28:05.000 --> 28:07.430
+Un risque critique est identifié pendant une visite.
+
+28:07.480 --> 28:09.830
+Quelle action retenir A.
+
+28:09.880 --> 28:11.830
+Attendre l’évaluation annuelle.
+
+28:11.880 --> 28:12.510
+B.
+
+28:12.560 --> 28:14.870
+Le conserver dans une note personnelle.
+
+28:14.920 --> 28:15.220
+C.
+
+28:15.240 --> 28:18.270
+L’évoquer seulement à la prochaine formation.
+
+28:18.320 --> 28:18.620
+D.
+
+28:18.640 --> 28:22.590
+L’inscrire au registre et activer le circuit d’alerte prévu.
+
+28:22.640 --> 28:25.910
+Vous avez quinze secondes pour choisir votre réponse.
+
+28:41.560 --> 28:46.830
+La FT mesure la participation des membres l’AM mesure celle des structures.
+
+28:46.880 --> 28:49.990
+Comment présenter ces résultats A.
+
+28:50.040 --> 28:52.990
+Fusionner les deux taux sans expliquer les dénominateurs.
+
+28:53.040 --> 28:54.270
+B.
+
+28:54.320 --> 28:58.230
+Garder les deux mesures distinctes et demander leur harmonisation.
+
+28:58.280 --> 28:59.070
+C.
+
+28:59.120 --> 29:02.110
+Choisir automatiquement le taux le plus élevé.
+
+29:02.160 --> 29:02.460
+D.
+
+29:02.480 --> 29:05.110
+Supprimer l’indicateur de participation.
+
+29:05.160 --> 29:08.430
+Vous avez quinze secondes pour choisir votre réponse.
+
+29:24.080 --> 29:28.590
+Quel dispositif permet de vérifier durablement qu’une décision a été réalisée A.
+
+29:28.640 --> 29:31.590
+Une annonce orale sans document.
+
+29:31.640 --> 29:32.390
+B.
+
+29:32.440 --> 29:34.990
+Un pourcentage sans source ni période.
+
+29:35.040 --> 29:35.870
+C.
+
+29:35.920 --> 29:41.270
+Une action attribuée et datée, une preuve de clôture et un archivage accessible.
+
+29:41.320 --> 29:41.480
+D.
+
+29:41.480 --> 29:43.790
+Une clôture automatique après deux relances.
+
+29:43.840 --> 29:47.110
+Vous avez quinze secondes pour choisir votre réponse.
+
+30:02.760 --> 30:05.115
+Vous avez terminé les quinze questions.
+
+30:05.165 --> 30:07.212
+Reprenons maintenant les réponses.
+
+30:07.262 --> 30:12.270
+Pour chaque question, la bonne proposition apparaît entourée et soulignée en vert.
+
+30:12.320 --> 30:17.750
+Écoutez surtout l’explication elle vous permettra de retrouver la règle et de l’appliquer au travail.
+
+30:17.800 --> 30:20.830
+Comptez un point par bonne réponse.
+
+30:24.040 --> 30:24.200
+Question 1.
+
+30:24.200 --> 30:27.430
+La bonne réponse est A.
+
+30:27.480 --> 30:31.110
+Le rapport part à la DPS sous soixante-douze heures.
+
+30:31.160 --> 30:36.590
+Le délai de cinq jours concerne sa transmission aux UTGL du niveau central.
+
+30:36.640 --> 30:39.550
+Ces deux destinataires ont donc des délais distincts.
+
+30:43.280 --> 30:43.580
+Question 2.
+
+30:43.600 --> 30:44.590
+La bonne réponse est C.
+
+30:44.640 --> 30:52.910
+La supervision conjointe associe au moins deux niveaux ou entités et se concentre notamment sur les stocks, les données et les procédures.
+
+30:52.960 --> 30:58.230
+L’intégrée élargit le périmètre à la performance globale et aux programmes prioritaires.
+
+31:01.960 --> 31:03.230
+Question 3.
+
+31:03.280 --> 31:04.790
+La bonne réponse est B.
+
+31:04.840 --> 31:09.910
+Selon le cadre présenté, la Direction de l’ANAMED exerce l’approbation permanente.
+
+31:09.960 --> 31:13.390
+Le comité de pilotage formule un avis stratégique transitoire.
+
+31:17.120 --> 31:17.420
+Question 4.
+
+31:17.440 --> 31:20.230
+La bonne réponse est D.
+
+31:20.280 --> 31:22.870
+L’écart absolu est de cent soixante boîtes.
+
+31:22.920 --> 31:26.390
+Cent soixante divisé par deux mille donne huit pour cent.
+
+31:26.440 --> 31:31.590
+La concordance est donc de quatre-vingt-douze pour cent, sous la cible de quatre-vingt-quinze pour cent.
+
+31:35.280 --> 31:36.550
+Question 5.
+
+31:36.600 --> 31:38.790
+La bonne réponse est A.
+
+31:38.840 --> 31:44.070
+Neuf divisé par douze, multiplié par cent, donne soixante-quinze pour cent.
+
+31:44.120 --> 31:47.590
+La cible de quatre-vingts pour cent n’est pas atteinte.
+
+31:51.320 --> 31:51.480
+Question 6.
+
+31:51.480 --> 31:54.470
+La bonne réponse est C.
+
+31:54.520 --> 31:58.350
+Six actions réalisées sur dix donnent soixante pour cent.
+
+31:58.400 --> 32:02.230
+Pour les actions de réunion, la cible présentée est de quatre-vingts pour cent.
+
+32:02.280 --> 32:05.990
+Il faut examiner les causes de retard et confirmer les responsabilités et les délais.
+
+32:09.720 --> 32:10.590
+Question 7.
+
+32:10.640 --> 32:13.390
+La bonne réponse est B.
+
+32:13.440 --> 32:19.670
+Le plan étant validé, la DPS peut faciliter la mission par une communication officielle et un calendrier convenu.
+
+32:19.720 --> 32:25.110
+Les engagements doivent être consignés au procès-verbal, avec une remontée si le blocage persiste.
+
+32:28.840 --> 32:29.000
+Question 8.
+
+32:29.000 --> 32:29.990
+La bonne réponse est D.
+
+32:30.040 --> 32:32.670
+Une recommandation doit être attribuée et datée.
+
+32:32.720 --> 32:40.870
+Le suivi mensuel permet de vérifier sa réalisation, avant la consolidation trimestrielle.
+
+32:40.920 --> 32:45.790
+Sans responsable ni échéance, la traçabilité reste insuffisante.
+
+32:49.520 --> 32:50.430
+Question 9.
+
+32:50.480 --> 32:52.470
+La bonne réponse est A.
+
+32:52.520 --> 32:56.590
+Le report du comité de pilotage ne transfère pas l’approbation à un partenaire.
+
+32:56.640 --> 33:05.350
+Les UTGL du niveau central assurent la validation technique et l’ANAMED exerce l’approbation institutionnelle prévue par le cadre présenté.
+
+33:09.120 --> 33:09.430
+Question 10.
+
+33:09.480 --> 33:10.390
+La bonne réponse est B.
+
+33:10.440 --> 33:14.630
+Chaque document remplit une fonction distincte.
+
+33:17.720 --> 33:25.590
+La procédure prescrit les règles, le guide explique la gouvernance, la fiche fournit les outils et l’aide-mémoire rappelle les points essentiels.
+
+33:29.320 --> 33:29.480
+Question 11.
+
+33:29.480 --> 33:30.870
+La bonne réponse est C.
+
+33:30.920 --> 33:36.150
+R désigne la personne ou l’entité responsable de l’exécution.
+
+33:36.200 --> 33:40.470
+A désigne l’approbateur, C une personne consultée et I une personne informée.
+
+33:44.200 --> 33:44.830
+Question 12.
+
+33:44.880 --> 33:46.550
+La bonne réponse est A.
+
+33:46.600 --> 33:54.390
+Le processus comprend six étapes planification, préparation, déroulement, restitution, rapport, puis suivi et clôture.
+
+33:54.440 --> 33:58.070
+La vérification physique et la restitution sur place sont essentielles.
+
+34:01.840 --> 34:03.110
+Question 13.
+
+34:03.160 --> 34:05.310
+La bonne réponse est D.
+
+34:05.360 --> 34:10.830
+Le risque doit être tracé dans le registre et signalé selon les procédures prévues.
+
+34:10.880 --> 34:15.310
+Cette démarche permet de mobiliser les responsables et de suivre les mesures de maîtrise.
+
+34:19.000 --> 34:19.950
+Question 14.
+
+34:20.000 --> 34:22.430
+La bonne réponse est B.
+
+34:22.480 --> 34:25.950
+Les populations mesurées diffèrent.
+
+34:26.000 --> 34:31.030
+Un taux de membres présents et un taux de structures représentées ne sont pas directement interchangeables.
+
+34:31.080 --> 34:34.670
+Les définitions doivent être harmonisées officiellement.
+
+34:38.400 --> 34:38.700
+Question 15.
+
+34:38.720 --> 34:40.990
+La bonne réponse est C.
+
+34:41.040 --> 34:44.350
+La responsabilité et l’échéance organisent l’exécution.
+
+34:44.400 --> 34:47.430
+La preuve permet de vérifier la réalisation.
+
+34:47.480 --> 34:50.350
+Le classement et l’archivage rendent cette preuve retrouvable.
+
+34:50.400 --> 34:54.830
+Une difficulté persistante appelle une remontée, pas une clôture automatique.
+
+34:58.600 --> 35:00.326
+Merci pour votre participation.
+
+35:00.376 --> 35:04.564
+Reprenez avec votre équipe les questions qui méritent d’être approfondies.
+
+35:04.614 --> 35:08.345
+Revenez aux documents sources et vérifiez leur version en vigueur.
+
+35:08.395 --> 35:16.880
+Le résultat attendu sur le terrain reste le même un constat documenté, une action précise, un responsable, une échéance et une preuve de réalisation.
+
+35:16.930 --> 35:20.030
+À vous maintenant de mettre cette démarche en pratique.

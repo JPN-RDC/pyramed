@@ -1,0 +1,1402 @@
+WEBVTT
+
+00:00.000 --> 00:10.377
+Mesdames et Messieurs, chers collègues, bienvenue dans cette formation consacrée à la collecte, à la triangulation et à la validation des données logistiques mensuelles.
+
+00:10.427 --> 00:12.536
+Quatre documents nous accompagnent.
+
+00:12.586 --> 00:19.137
+La procédure SOP zéro deux décrit le circuit mensuel, de la formation sanitaire aux UTGL du niveau central.
+
+00:19.187 --> 00:26.171
+Le guide zéro deux, la fiche technique zéro deux et l’aide-mémoire zéro deux portent sur la supervision conjointe.
+
+00:26.221 --> 00:34.870
+Ce lien est essentiel la validation mensuelle s’appuie sur les visites qui vérifient, sur place, ce que les fiches et les systèmes indiquent.
+
+00:34.920 --> 00:39.470
+Cette formation a été préparée par JPN Management Consulting pour l’ANAMED.
+
+00:39.520 --> 00:44.470
+Vous pouvez mettre la vidéo en pause pour consulter vos documents ou approfondir un point.
+
+00:47.720 --> 00:50.750
+Notre parcours comporte cinq modules.
+
+00:50.800 --> 00:55.070
+Nous commencerons par les enjeux de la qualité des données et le rôle des quatre documents.
+
+00:55.120 --> 01:01.790
+Nous examinerons ensuite les six étapes du circuit mensuel, son calendrier et les trois triangulations.
+
+01:01.840 --> 01:05.510
+Le troisième module précisera les responsabilités à chaque niveau.
+
+01:05.560 --> 01:09.750
+Le quatrième réunira les outils, les indicateurs et les calculs.
+
+01:09.800 --> 01:13.470
+Enfin, quinze questions permettront de vérifier vos acquis.
+
+01:13.520 --> 01:17.270
+Les durées affichées correspondent à une formation collective avec échanges.
+
+01:17.320 --> 01:20.710
+Cette vidéo propose un parcours autonome.
+
+01:20.760 --> 01:26.030
+L’objectif reste concret savoir quelle donnée transmettre, à qui, avant quelle date et avec quelles pièces.
+
+01:29.240 --> 01:30.830
+Nos objectifs sont concrets.
+
+01:30.880 --> 01:42.270
+Premièrement, situer chaque document la procédure zéro deux prescrit le circuit de la donnée, le guide de supervision explique la méthode, la fiche technique outille la mission et l’aide-mémoire la résume.
+
+01:42.320 --> 01:59.230
+Deuxièmement, tenir le calendrier mensuel : les données quittent la FOSA avant le cinq, la zone de santé triangule avant le dix, la D P S valide avant le quinze, les UTGL du niveau provincial terminent avant le vingt, les UTGL du niveau central consolident avant le vingt-cinq.
+
+01:59.280 --> 02:03.430
+Troisièmement, calculer un écart et un pourcentage de cohérence.
+
+02:03.480 --> 02:11.110
+Enfin, savoir décider quand les chiffres sont douteux, on les vérifie sur place, on documente et on appuie la zone.
+
+02:14.360 --> 02:15.982
+Commençons par le pourquoi.
+
+02:16.032 --> 02:21.740
+Chaque mois, des milliers de structures transmettent des données de stock et de consommation.
+
+02:21.790 --> 02:33.070
+Si ces données sont incomplètes, tardives ou incohérentes, toutes les décisions qui en découlent sont fragilisées commandes, redistributions, quantification, rapports aux partenaires.
+
+02:33.120 --> 02:44.990
+Un constat de terrain, provisoire et à valider par les provinces à la revue du troisième trimestre 2026, soixante-huit zones de santé sur cent trente-six n’avaient envoyé aucun rapport en août.
+
+02:45.040 --> 02:53.030
+Quand le rapportage est faible, une ligne à zéro peut signifier une rupture réelle ou simplement un rapport manquant il faut vérifier physiquement avant de conclure.
+
+02:56.280 --> 02:58.590
+Ces repères viennent de la procédure zéro deux.
+
+02:58.640 --> 03:00.950
+La FOSA transmet avant le cinq du mois.
+
+03:01.000 --> 03:20.550
+En version deux point deux, un écart supérieur à cinq pour cent entre le stock physique et le stock théorique, ou supérieur à dix pour cent entre les autres sources, doit être analysé et justifié cinq pour cent correspond à une exactitude d’inventaire d’au moins quatre-vingt-quinze pour cent, comme dans le Manuel SIGL et la SOP-STK-01.
+
+03:20.600 --> 03:32.230
+La procédure s’appuie sur les sept indicateurs logistiques nationaux du Manuel SIGL, et vise zéro anomalie critique non résolue au-delà de soixante-douze heures.
+
+03:32.280 --> 03:33.110
+Trois idées à retenir.
+
+03:33.160 --> 03:37.750
+Première idée aucune donnée n’est acceptée sans pièces justificatives.
+
+03:37.800 --> 03:43.550
+Deuxième idée on triangule, c’est-à-dire qu’on croise plusieurs sources.
+
+03:43.600 --> 03:48.630
+Troisième idée la supervision conjointe est l’outil de vérification sur site.
+
+03:48.680 --> 03:53.430
+Un conseil de mentor ne laissez jamais passer un chiffre sans savoir d’où il vient.
+
+03:56.680 --> 03:59.910
+Voici les questions à poser avant de préparer le rapport mensuel.
+
+03:59.960 --> 04:04.070
+Pourquoi ? Pour disposer de données fiables qui éclairent les décisions.
+
+04:04.120 --> 04:09.470
+Quoi ? La collecte, la triangulation, la validation et l’archivage.
+
+04:09.520 --> 04:24.790
+Qui ? La formation sanitaire collecte, la zone de santé triangule, la Division provinciale de la santé consolide, les UTGL du niveau provincial effectuent la triangulation finale et les UTGL du niveau central valident.
+
+04:24.840 --> 04:28.070
+Les cas critiques suivent le circuit d’arbitrage prévu.
+
+04:28.120 --> 04:32.390
+Où ? Dans les structures et les provinces concernées par le dispositif.
+
+04:32.440 --> 04:36.230
+Quand ? Selon les cinq échéances du calendrier mensuel.
+
+04:36.280 --> 04:42.790
+Comment ? Avec des pièces justificatives, des comparaisons entre sources et des seuils explicites.
+
+04:42.840 --> 04:47.950
+La supervision vérifie ces éléments sur place, selon le calendrier trimestriel.
+
+04:51.160 --> 04:53.150
+C’est la diapositive centrale.
+
+04:53.200 --> 04:58.630
+Attention les quatre documents n’ont pas le même objet, et le référentiel croisé l’explique.
+
+04:58.680 --> 05:03.950
+Le référentiel précise que la correspondance n’est pas numérotée terme à terme, mais fonctionnelle.
+
+05:04.000 --> 05:07.630
+La procédure zéro deux prescrit le circuit mensuel de la donnée.
+
+05:07.680 --> 05:14.670
+Le guide de supervision, la fiche technique et l’aide-mémoire décrivent la visite qui permet de vérifier ces données sur le terrain.
+
+05:14.720 --> 05:23.790
+Le guide explique les types de supervision et la démarche en sept étapes la fiche technique l’outille pour la mission l’aide-mémoire la résume sur une trame de poche.
+
+05:23.840 --> 05:29.310
+Retenez la SOP prescrit, le guide explique, la fiche outille, l’aide-mémoire rappelle.
+
+05:29.360 --> 05:41.510
+En cas de divergence entre documents, la SOP prévaut, et vous la signalez aux UTGL du niveau central ; la version deux point deux en a d’ailleurs supprimé plusieurs, sur les seuils d’écart et sur le calendrier.
+
+05:44.800 --> 05:58.030
+Ce tableau répond à la question : qui ouvre quel document, et quand ? La procédure zéro deux est l’affaire des UTGL du niveau central, de l’ANAMED et des auditeurs ; on la consulte avant de collecter ou de valider.
+
+05:58.080 --> 06:04.230
+Le guide de supervision s’adresse aux UTGL du niveau provincial, aux D P S et aux formateurs.
+
+06:04.280 --> 06:08.750
+La fiche technique est l’outil du superviseur qui prépare et conduit la mission.
+
+06:08.800 --> 06:15.310
+L’aide-mémoire est la trame de poche préavis, déroulé, rapport, indicateurs, délais.
+
+06:15.360 --> 06:19.950
+Le bandeau du bas fixe la règle d’or en cas de doute, la SOP prévaut.
+
+06:20.000 --> 06:25.390
+Si vous constatez une divergence, signalez-la aux UTGL du niveau central pour correction.
+
+06:28.640 --> 06:29.870
+Suivons un mois.
+
+06:29.920 --> 06:42.190
+Avant le cinq, la FOSA transmet ses données, et la zone de santé compare fiche de stock et stock physique, consommation déclarée et sorties théoriques, commandes et livraisons c’est la procédure zéro deux.
+
+06:42.240 --> 06:50.430
+Lorsqu’une supervision est prévue, l’équipe cible les sites prioritaires et prépare lettres de mission et listes de contrôle c’est la fiche technique.
+
+06:50.480 --> 06:57.750
+Sur place, l’aide-mémoire sert de contrôle rapide stocks et registres, commandes, conservation, qualité des données.
+
+06:57.800 --> 07:03.990
+Le guide rappelle la démarche de accompagnement on démontre l’usage des fiches et on corrige les erreurs avec l’agent.
+
+07:04.040 --> 07:13.950
+Enfin, avant le vingt-cinq, les UTGL du niveau central consolident, produisent le rapport mensuel et renvoient un retour d’information aux provinces.
+
+07:14.000 --> 07:17.390
+Vous voyez la chaîne la supervision alimente la validation.
+
+07:20.640 --> 07:23.627
+Entrons dans le circuit technique de la donnée.
+
+07:23.677 --> 07:43.270
+La procédure décrit six étapes : collecte à la formation sanitaire, première triangulation à la zone de santé, consolidation par la Division provinciale de la santé, triangulation finale par les UTGL du niveau provincial, validation par les UTGL du niveau central, puis archivage et retour d’information.
+
+07:43.320 --> 07:45.270
+Chaque étape a sa date limite.
+
+07:45.320 --> 07:50.110
+Nous verrons ensuite les comparaisons attendues à chaque niveau.
+
+07:50.160 --> 07:57.670
+Le guide de supervision décrit, pour sa part, sept étapes, regroupées en six blocs dans cette présentation.
+
+07:57.720 --> 08:00.670
+La visite permet de vérifier sur place les données transmises.
+
+08:03.840 --> 08:04.000
+Voici le circuit complet.
+
+08:04.000 --> 08:15.390
+Étape un la formation sanitaire met à jour les fiches de stock et de consommation, saisit les données et transmet au bureau central de la zone de santé avant le cinq, avec les pièces justificatives.
+
+08:15.440 --> 08:19.070
+Étape deux la zone de santé compare les sources avant le dix.
+
+08:19.120 --> 08:26.590
+Les écarts supérieurs à cinq pour cent sur le stock, ou à dix pour cent entre les autres sources, sont analysés et corrigés de façon tracée.
+
+08:26.640 --> 08:33.990
+Étape trois la Division provinciale de la santé consolide et triangule avant le quinze, avec les données du centre de distribution.
+
+08:34.040 --> 08:37.710
+Elle retourne les anomalies à la zone, sans les corriger elle-même.
+
+08:37.760 --> 08:42.830
+Étape quatre : les UTGL du niveau provincial terminent leur triangulation avant le vingt.
+
+08:42.880 --> 08:48.430
+Elle analyse les tendances et rapproche les données logistiques des activités des programmes.
+
+08:48.480 --> 08:55.190
+Étape cinq : les UTGL du niveau central valident et remettent le rapport avant le vingt-cinq.
+
+08:55.240 --> 08:59.910
+Étape six les documents sont archivés et un retour d’information est transmis.
+
+08:59.960 --> 09:11.870
+Le support signale un renvoi documentaire à harmoniser pour la gestion des risques : utilisez les procédures SOP zéro cinq et SOP vingt-deux, et signalez cette divergence aux UTGL du niveau central.
+
+09:15.120 --> 09:19.150
+Voici les sept règles de la procédure zéro deux.
+
+09:19.200 --> 09:22.710
+Cinq dates le cinq, le dix, le quinze, le vingt et le vingt-cinq.
+
+09:22.760 --> 09:32.110
+Chaque niveau dispose de cinq jours pour faire son travail, ce qui impose de ne pas perdre de temps en amont un retard à la FOSA se répercute sur toute la chaîne.
+
+09:32.160 --> 09:40.110
+Sixième règle tout écart supérieur à cinq pour cent sur le stock, ou à dix pour cent sur les autres sources, est analysé et justifié.
+
+09:40.160 --> 09:44.670
+Septième règle aucune donnée n’est acceptée sans pièces justificatives.
+
+09:44.720 --> 10:04.030
+Une bonne nouvelle en version deux point deux, le guide de collecte, que nous verrons dans la formation suivante, reprend la même cascade du cinq, dix, quinze, vingt et vingt-cinq, conforme au Manuel SIGL, en remplacement des échéances en jours, J plus trois, cinq, dix et quinze.
+
+10:04.080 --> 10:08.910
+Il n’y a donc plus qu’un seul calendrier.
+
+10:08.960 --> 10:14.670
+Si vous ne devez retenir qu’une diapositive de ce module, c’est celle-ci.
+
+10:17.880 --> 10:21.190
+Ce tableau est le cœur de la procédure zéro deux.
+
+10:21.240 --> 10:33.310
+À la zone de santé, on compare la consommation déclarée aux sorties théoriques, le stock physique de chaque FOSA, issu du dernier inventaire, au stock théorique de la fiche de stock, et les commandes aux livraisons.
+
+10:33.360 --> 10:41.990
+Tout écart au-delà du seuil, cinq pour cent pour le stock et dix pour cent pour les autres sources, est documenté, investigué avec l’appui du B C Z S, et corrigé de façon tracée avant la transmission à la D P S.
+
+10:44.960 --> 10:52.350
+À la D P S, on rapproche les données des zones du CDR de référence stock, commandes en cours, délais.
+
+10:52.400 --> 10:57.590
+La D P S ne corrige pas elle-même elle retourne l’anomalie à la zone de santé.
+
+10:57.640 --> 11:06.310
+Aux UTGL du niveau provincial, on rapproche, pour chaque produit traceur, les quantités distribuées et l’activité programmatique.
+
+11:06.360 --> 11:14.470
+Un exemple parlant, tiré du mentorat les cas de paludisme traités chez les moins de cinq ans doivent correspondre aux cures consommées.
+
+11:14.520 --> 11:19.030
+Aux UTGL du niveau central, on valide et on consolide.
+
+11:22.280 --> 11:26.150
+Le guide présente sept étapes, regroupées ici en six blocs.
+
+11:26.200 --> 11:29.190
+Premier bloc planifier et préparer.
+
+11:29.240 --> 11:36.390
+L’équipe analyse les rapports des trois derniers mois, les alertes et les commandes en cours, puis prépare les outils et l’itinéraire.
+
+11:36.440 --> 11:38.990
+Deuxième bloc superviser sur site.
+
+11:39.040 --> 11:45.310
+Les visites des formations sanitaires permettent de contrôler les stocks, la qualité des données et les risques critiques.
+
+11:45.360 --> 11:47.590
+Troisième bloc accompagner sur site.
+
+11:47.640 --> 11:51.350
+On montre l’usage des fiches et on corrige les erreurs avec l’agent.
+
+11:51.400 --> 11:54.430
+Quatrième bloc analyser et rapporter.
+
+11:54.480 --> 11:59.710
+Les constats sont consolidés, les tendances examinées et les recommandations documentées.
+
+11:59.760 --> 12:02.070
+Cinquième bloc valider.
+
+12:02.120 --> 12:09.710
+La Division provinciale valide d’abord, les UTGL du niveau central consolident et la Direction de l’ANAMED approuve.
+
+12:09.760 --> 12:13.710
+Le comité de pilotage formule un avis stratégique durant la transition.
+
+12:13.760 --> 12:17.670
+Sixième bloc suivre les actions chaque mois, jusqu’à leur résolution.
+
+12:17.720 --> 12:21.910
+Les résultats alimentent aussi la revue du Groupe Technique Médicaments provincial.
+
+12:25.200 --> 12:47.110
+Passons à la question : qui fait quoi ? Une précision institutionnelle d’abord, présente dans tous les documents : les UTGL du niveau central sont intégrées à l’ANAMED, et non une entité distincte ; les UTGL du niveau provincial sont rattachées à la Division provinciale de la santé, dont le chef de division est le superviseur administratif.
+
+12:47.160 --> 12:58.790
+Rappelons aussi que le comité de pilotage est un organe transitoire à avis stratégique, et que la Direction de l’ANAMED, par son Comité de Direction, est l’organe permanent d’approbation.
+
+12:58.840 --> 13:05.630
+Nous allons voir comment ces principes se traduisent dans la matrice des responsabilités et dans l’appui aux UTGL.
+
+13:08.840 --> 13:11.270
+Voici la matrice de la procédure zéro deux.
+
+13:11.320 --> 13:13.070
+Lisez-la colonne par colonne.
+
+13:13.120 --> 13:19.510
+À la collecte primaire, la FOSA est responsable la zone de santé aussi pour la première triangulation.
+
+13:19.560 --> 13:28.750
+La D P S est responsable de la triangulation entre zones de santé et D P S, mais n’est pas productrice de données primaires elle consolide et vérifie la cohérence.
+
+13:28.800 --> 13:36.550
+Les UTGL du niveau provincial approuvent la collecte et la triangulation et sont responsables de la consolidation provinciale.
+
+13:36.600 --> 13:42.510
+Les UTGL du niveau central, intégrées à l’ANAMED, sont responsables de la validation nationale.
+
+13:42.560 --> 13:59.190
+Une précision importante de la version deux point deux : la Direction de l’ANAMED porte la lettre A pour la validation nationale et pour l’arbitrage des anomalies critiques, tandis que le comité de pilotage, organe transitoire, est consulté et donne un avis stratégique sans approuver.
+
+13:59.240 --> 14:02.750
+L’ancienne lettre A du comité de pilotage est donc corrigée.
+
+14:02.800 --> 14:09.310
+La ligne du CDR n’est pas reproduite ici il est consulté sur les trois premières étapes et informé ensuite.
+
+14:12.560 --> 14:14.870
+Trois niveaux, trois rôles.
+
+14:14.920 --> 14:24.470
+Les UTGL du niveau central valident, consolident, appuient les supervisions trimestrielles et forment les UTGL du niveau provincial.
+
+14:24.520 --> 14:35.950
+Au niveau provincial, l’UTGL rattachée à la D P S réalise la triangulation finale avant le vingt, planifie et conduit les supervisions, et suit les plans d’action correctifs.
+
+14:36.000 --> 14:46.030
+Au niveau de la zone de santé et des formations sanitaires, on produit et on vérifie les données primaires la FOSA avant le cinq, la zone avant le dix, et on facilite la supervision.
+
+14:46.080 --> 14:48.590
+Le bandeau du bas liste les formes d’appui.
+
+14:48.640 --> 15:03.070
+Dans les zones d’accès difficile, par exemple au Nord-Kivu, l’aide-mémoire prévoit que l’appui à distance suit les mêmes étapes avec adaptations il ne remplace pas la visite physique, surtout lorsque l’enclavement ou le manque de budget la rendent difficile.
+
+15:06.320 --> 15:10.350
+Ce schéma résume les deux sens de circulation.
+
+15:10.400 --> 15:16.150
+L’appui descend outils, calendrier, retour d’information, supervision et accompagnement.
+
+15:16.200 --> 15:27.430
+Les données et les alertes remontent pièces de la formation sanitaire, triangulation de la zone et de la Division provinciale, rapport provincial, puis rapport national et alertes critiques.
+
+15:27.480 --> 15:29.670
+Ces deux mouvements sont complémentaires.
+
+15:29.720 --> 15:33.230
+La procédure prévoit un retour d’information mensuel aux provinces.
+
+15:33.280 --> 15:39.790
+Le Manuel SIGL cité dans le support fixe une norme de quatre-vingts pour cent de structures ayant reçu une rétro-information.
+
+15:39.840 --> 15:46.710
+Une structure qui transmet doit recevoir un retour utile, pour comprendre ses écarts et améliorer le rapport suivant.
+
+15:49.960 --> 15:55.150
+Voici la liste de contrôle de l’équipe en trois temps, tirée de l’aide-mémoire et de la fiche technique.
+
+15:55.200 --> 16:06.830
+Avant la visite un préavis de sept jours, un itinéraire validé par la D P S, les lettres officielles, l’analyse des rapports des trois derniers mois et le ciblage des FOSA prioritaires.
+
+16:06.880 --> 16:19.390
+Pendant la visite réunion d’ouverture, puis évaluation de la gestion des stocks, des commandes, de la conservation et de la qualité des données, avec promptitude, complétude, cohérence et triangulation.
+
+16:19.440 --> 16:38.070
+Après la visite : restitution immédiate, rapport avec tableau des écarts critiques, tableau des actions avec responsable, délai, priorité et statut, diffusion à la D P S sous soixante-douze heures, destinataire obligatoire, et aux UTGL du niveau central sous cinq jours, comme dans la procédure zéro un.
+
+16:38.120 --> 16:45.150
+Notez que les résultats sont intégrés aux rapports des cinq piliers et aux revues mensuelles du Groupe Technique Médicaments provincial.
+
+16:45.200 --> 16:49.710
+Rappelez-vous aussi qu’un entretien déclaratif à distance ne remplace pas une supervision physique.
+
+16:52.920 --> 16:55.349
+Ce module est technique, mais indispensable.
+
+16:55.399 --> 17:04.759
+Nous allons passer en revue les outils standard, puis les sept indicateurs logistiques nationaux du Manuel SIGL, que la procédure zéro deux intègre à la triangulation.
+
+17:04.809 --> 17:11.070
+Nous verrons les cinq indicateurs de la SOP, puis nous refaisons ensemble le calcul de la cohérence des données.
+
+17:11.120 --> 17:17.630
+Un principe pour tout le module on ne présente jamais un indicateur sans sa formule, sa source et sa cible.
+
+17:17.680 --> 17:23.630
+Et on ne donne jamais de score injustifié quand la donnée manque on écrit non disponible plutôt que d’inventer.
+
+17:26.920 --> 17:29.070
+Voici la boîte à outils.
+
+17:29.120 --> 17:43.710
+Pour la donnée la fiche de stock, le registre de consommation, la fiche rupture et ajustement, puis la saisie dans E-LMIS ou D H I S deux Logistics, avec une procédure de secours papier ou SMS en cas de coupure de connexion, suivie d’une ressaisie.
+
+17:43.760 --> 17:49.790
+Pour la triangulation les tableaux de comparaison et le rapport de triangulation.
+
+17:49.840 --> 17:58.350
+Pour la supervision la fiche standardisée, la liste de contrôle E-LMIS, la grille de score et le plan d’action correctif.
+
+17:58.400 --> 18:00.310
+Ne réinventez pas ces outils.
+
+18:00.360 --> 18:06.990
+Un constat de terrain mérite d’être gardé en tête la saisie dans D H I S deux n’est pas la soumission dans InfoMed.
+
+18:07.040 --> 18:19.510
+À Kinshasa au premier trimestre 2026, la saisie D H I S deux atteignait environ quatre-vingt-dix-sept pour cent, alors que la complétude InfoMed tombait à trente-neuf pour cent en mars ces chiffres sont provisoires.
+
+18:19.560 --> 18:21.470
+Contrôlez toujours les deux.
+
+18:24.640 --> 18:32.710
+Voici les sept indicateurs logistiques nationaux que la procédure zéro deux intègre à la triangulation, avec leurs normes du Manuel SIGL de 2021.
+
+18:32.760 --> 18:35.510
+Les structures en rupture au plus vingt pour cent.
+
+18:35.560 --> 18:39.750
+Les produits en surstock et en sous-stock au plus dix pour cent chacun.
+
+18:39.800 --> 18:43.630
+Le taux de pertes au plus trois pour cent de la valeur du stock.
+
+18:43.680 --> 18:49.150
+La promptitude, la complétude et la rétro-information quatre-vingts pour cent.
+
+18:49.200 --> 19:00.590
+Un point à connaître le cadre des cinq piliers utilisé dans le mentorat fixe des cibles plus exigeantes, complétude d’au moins quatre-vingt-quinze pour cent et promptitude d’au moins quatre-vingt-dix pour cent.
+
+19:00.640 --> 19:07.350
+Ce n’est pas une contradiction la norme du manuel est un plancher national, les cibles de mission sont des objectifs.
+
+19:07.400 --> 19:14.710
+Et une règle de lecture capitale la disponibilité n’est fiable que si le rapportage est d’au moins quatre-vingts pour cent.
+
+19:14.760 --> 19:19.350
+Une dégradation de l’un de ces indicateurs déclenche une vérification ciblée.
+
+19:22.600 --> 19:26.470
+Cinq indicateurs structurent le suivi de la procédure zéro deux.
+
+19:26.520 --> 19:30.510
+Au moins quatre-vingts pour cent des FOSA soumettent avant le cinq.
+
+19:30.560 --> 19:35.230
+Au moins quatre-vingt-cinq pour cent des zones de santé ont triangulé avant le dix.
+
+19:35.280 --> 19:47.830
+La cohérence des données, au moins quatre-vingt-quinze pour cent c’est la proportion de produits sans écart supérieur à cinq pour cent entre stock théorique et stock physique, seuil porté à cinq pour cent en version deux point deux.
+
+19:47.880 --> 19:51.830
+Au moins quatre-vingt-dix pour cent des provinces soumettent avant le vingt.
+
+19:51.880 --> 19:57.110
+Et zéro anomalie critique non résolue au-delà de soixante-douze heures.
+
+19:57.160 --> 19:59.190
+Le dernier indicateur est un décompte, pas un ratio.
+
+19:59.240 --> 20:15.590
+Pour la supervision, les documents du groupe donnent d’autres indicateurs zones supervisées selon le plan au moins quatre-vingts pour cent, actions correctives mises en œuvre au moins soixante-quinze pour cent dans l’aide-mémoire, disponibilité des produits essentiels au moins quatre-vingt-dix pour cent.
+
+20:15.640 --> 20:19.270
+Conseil de mentor un chiffre sans formule ne s’améliore pas.
+
+20:22.440 --> 20:25.830
+Calculons l’écart entre le stock physique et le stock théorique.
+
+20:25.880 --> 20:32.310
+On prend la valeur absolue de leur différence, on la divise par le stock théorique, puis on multiplie par cent.
+
+20:32.360 --> 20:37.510
+Exemple fictif stock théorique de cinq cents unités, stock physique de quatre cent trente.
+
+20:37.560 --> 20:40.310
+La différence est de soixante-dix unités.
+
+20:40.360 --> 20:45.790
+Soixante-dix divisé par cinq cents, multiplié par cent, donne quatorze pour cent.
+
+20:45.840 --> 20:54.150
+Le seuil de cinq pour cent est dépassé il faut investiguer, documenter la cause et corriger à la source, de façon tracée, avant la transmission.
+
+20:54.200 --> 21:08.310
+L’indicateur de cohérence répond à une autre question combien de produits respectent ce seuil Sur vingt produits, dix-sept sans écart supérieur à cinq pour cent donnent quatre-vingt-cinq pour cent, sous la cible de quatre-vingt-quinze pour cent.
+
+21:08.360 --> 21:14.310
+Si le stock théorique est nul, cette formule ne s’applique pas le cas doit être traité séparément.
+
+21:17.520 --> 21:20.830
+Voici les risques de la procédure zéro deux.
+
+21:20.880 --> 21:31.470
+Le plus fréquent des données de FOSA incomplètes ou en retard la mesure est une relance par le point focal de la zone dès le six du mois, l’échéance étant le cinq, puis une escalade à la D P S si la donnée manque encore au dix.
+
+21:31.520 --> 21:37.510
+Les divergences entre stock physique et E-LMIS appellent une triangulation renforcée à trois niveaux.
+
+21:37.560 --> 21:42.630
+Une coupure de connexion déclenche le secours papier ou SMS, avec ressaisie.
+
+21:42.680 --> 21:48.990
+La falsification ou la double saisie est rare mais grave contrôles automatisés et audit trimestriel.
+
+21:51.720 --> 21:59.990
+J’ajoute un risque constaté sur le terrain, sans cotation officielle la saisie dans D H I S deux sans soumission dans InfoMed.
+
+22:00.040 --> 22:08.190
+Les causes récurrentes sont un antivirus qui bloque l’outil, des comptes manquants, un personnel non formé et la connectivité.
+
+22:08.240 --> 22:12.550
+Ces constats, de 2023 à  2026, sont provisoires.
+
+22:12.600 --> 22:18.790
+Ce risque se détecte lors de la supervision, d’où l’intérêt de relier les deux chaînes de documents.
+
+22:22.040 --> 22:24.510
+Voyons ce qui marche et ce qui ne marche pas.
+
+22:24.560 --> 22:39.070
+À gauche joindre les pièces, renvoyer toute donnée incohérente à la source avec un motif, vérifier avant publication, contrôler la saisie D H I S deux et la soumission InfoMed, et donner un retour d’information chaque mois.
+
+22:39.120 --> 22:43.590
+La vérification avant publication est une bonne pratique observée dans une zone du Maniema.
+
+22:43.640 --> 23:01.550
+À droite, les erreurs de terrain corriger à la D P S une donnée qui vient de la zone, saisir des zéros pour gagner du temps, conclure à une rupture sans vérifier si le CDR a rapporté, ou remplacer la supervision par des entretiens déclaratifs, comme cela s’est produit lorsque le budget de descente manquait.
+
+23:01.600 --> 23:10.830
+Enfin, un gestionnaire des données unique sans suppléant est un risque c’est pourquoi la mission du Maniema a prévu un suppléant formé par bureau central de zone.
+
+23:14.080 --> 23:15.430
+Le quand, maintenant.
+
+23:15.480 --> 23:18.670
+Avant le cinq, la FOSA transmet.
+
+23:18.720 --> 23:21.590
+Avant le dix, la zone de santé triangule.
+
+23:21.640 --> 23:24.270
+Avant le quinze, la D P S valide.
+
+23:24.320 --> 23:29.150
+Avant le vingt, les UTGL du niveau provincial font la triangulation finale.
+
+23:32.080 --> 23:38.590
+Avant le vingt-cinq, les UTGL du niveau central consolident et remettent le rapport mensuel à l’ANAMED.
+
+23:38.640 --> 23:42.950
+Chaque niveau dispose de cinq jours le retard d’un maillon retarde tous les suivants.
+
+23:43.000 --> 23:51.790
+En complément, la supervision conjointe a lieu chaque trimestre pour chaque province, avec un rapport sous soixante-douze heures et un suivi mensuel des actions.
+
+23:51.840 --> 23:55.830
+Calez vos visites juste après la clôture mensuelle, quand les écarts sont connus.
+
+23:55.880 --> 24:06.350
+Le guide de collecte de la formation suivante, en version deux point deux, reprend la même cascade du cinq au vingt-cinq un seul calendrier pour tous les documents.
+
+24:09.560 --> 24:11.990
+Voici un cas fictif à examiner en zone de santé.
+
+24:12.040 --> 24:16.630
+Quatre formations sanitaires déclarent le stock d’un même produit.
+
+24:16.680 --> 24:20.190
+Comparez le stock théorique de chaque fiche au comptage physique.
+
+24:20.240 --> 24:22.870
+Mettez la vidéo en pause si vous souhaitez faire les calculs.
+
+24:22.920 --> 24:32.830
+Les écarts sont d’environ trois virgule trois pour cent pour la structure A, quinze pour cent pour B, zéro pour cent pour C et douze virgule cinq pour cent pour D.
+
+24:32.880 --> 24:35.510
+B et D dépassent le seuil de cinq pour cent.
+
+24:35.560 --> 24:42.390
+Il faut investiguer, documenter les causes et corriger de façon tracée à la source, avec l’appui du bureau central de la zone.
+
+24:42.440 --> 24:46.630
+Deux structures sur quatre respectent le seuil, soit cinquante pour cent.
+
+24:46.680 --> 24:56.030
+Attention ce résultat illustre la conformité de ces quatre structures pour un produit il ne remplace pas le calcul officiel de cohérence sur l’ensemble des produits triangulés.
+
+24:56.080 --> 25:01.350
+Pour B, examinez les bons de livraison, les registres et les fiches d’ajustement.
+
+25:01.400 --> 25:04.910
+La Division provinciale ne corrige pas à la place de la source.
+
+25:08.120 --> 25:10.985
+Avant l’évaluation, retenons six messages.
+
+25:11.035 --> 25:17.230
+Cinq dates organisent le mois avant le cinq, le dix, le quinze, le vingt et le vingt-cinq.
+
+25:17.280 --> 25:21.230
+Une donnée doit être accompagnée de ses pièces justificatives.
+
+25:21.280 --> 25:29.310
+Au-delà de cinq pour cent d’écart sur le stock, ou de dix pour cent entre les autres sources, il faut analyser et documenter les écarts.
+
+25:29.360 --> 25:31.470
+La correction se fait à la source.
+
+25:31.520 --> 25:37.110
+La Division provinciale consolide et vérifie, sans produire les données primaires à la place des structures.
+
+25:37.160 --> 25:40.230
+La supervision vérifie sur place ce que les rapports indiquent.
+
+25:40.280 --> 25:45.150
+Enfin, un retour d’information mensuel soutient l’amélioration continue.
+
+25:45.200 --> 25:49.990
+Signalez toute divergence entre documents aux UTGL du niveau central.
+
+25:53.240 --> 25:56.830
+Voici les références sur lesquelles reposent les quatre documents.
+
+25:56.880 --> 26:25.470
+Sur le plan international le Data Quality Review de l’OMS et de D H I S deux, le cadre du Health Metrics Network pour la qualité des systèmes d’information, les normes ISO 9001 et 15489, la norme de sécurité de l’information ISO 27001, la norme d’audit ISO 19011 et les bonnes pratiques de stockage de l’OMS, ainsi que les exigences de l’UNICEF, de QUAMED et du Fonds mondial.
+
+26:25.520 --> 26:36.390
+Sur le plan national le Manuel SIGL de 2021 avec ses sept indicateurs, le registre RUMER et les fiches de stock, et le Guide national de quantification de 2020.
+
+26:36.440 --> 26:50.190
+Enfin, les documents UTGL liés la supervision et la gouvernance, les rapports et la collecte, la gestion des risques, les alertes, les inventaires, le tableau de bord, l’archivage et l’audit.
+
+26:50.240 --> 26:52.390
+Utilisez ces références pour approfondir.
+
+26:55.600 --> 26:58.190
+Les engagements se répartissent entre les niveaux.
+
+26:58.240 --> 27:06.470
+Les UTGL du niveau central valident et consolident avant le vingt-cinq, traitent les divergences documentaires et renvoient un retour d’information.
+
+27:06.520 --> 27:14.230
+Les UTGL du niveau provincial terminent leur triangulation avant le vingt, organisent les supervisions et suivent les actions correctives.
+
+27:14.280 --> 27:18.950
+Les formations sanitaires transmettent les données et les pièces avant le cinq.
+
+27:19.000 --> 27:23.590
+Les zones de santé triangulent avant le dix et accompagnent les corrections à la source.
+
+27:23.640 --> 27:33.070
+La Direction de l’ANAMED exerce l’approbation prévue par le cadre présenté, tandis que le comité de pilotage formule un avis stratégique durant la transition.
+
+27:33.120 --> 27:37.870
+Avant le quiz, notez une action à engager dans votre unité, avec son responsable et son échéance.
+
+27:41.080 --> 27:43.410
+Passons à la vérification des acquis.
+
+27:43.460 --> 27:46.818
+Quinze questions couvrent les thèmes de la formation.
+
+27:46.868 --> 27:49.906
+Choisissez une seule réponse et notez sa lettre.
+
+27:49.956 --> 27:55.244
+Après la lecture des propositions, vous disposerez de quinze secondes de réflexion.
+
+27:55.294 --> 27:58.910
+Mettez la vidéo en pause si vous souhaitez plus de temps.
+
+27:58.960 --> 28:01.950
+Toutes les corrections seront expliquées après la dernière question.
+
+28:05.720 --> 28:12.390
+Avant quelle date la FOSA transmet-elle ses données mensuelles au B C Z S, selon la procédure zéro deux A.
+
+28:12.440 --> 28:14.870
+Avant le 10 du mois.
+
+28:14.920 --> 28:15.470
+B.
+
+28:15.520 --> 28:17.310
+Avant le 5 du mois.
+
+28:17.360 --> 28:18.110
+C.
+
+28:18.160 --> 28:19.790
+Avant le 15 du mois.
+
+28:19.840 --> 28:20.000
+D.
+
+28:20.000 --> 28:22.470
+Avant le 20 du mois.
+
+28:22.520 --> 28:25.790
+Vous avez quinze secondes pour choisir votre réponse.
+
+28:41.440 --> 28:46.630
+Quel est le rôle de la D P S dans la triangulation, selon la procédure zéro deux A.
+
+28:46.680 --> 28:52.070
+Produire les données primaires et corriger directement les erreurs des zones de santé.
+
+28:52.120 --> 28:52.990
+B.
+
+28:53.040 --> 28:57.390
+Remplacer la zone de santé lorsque le gestionnaire est absent.
+
+28:57.440 --> 28:57.740
+C.
+
+28:57.760 --> 29:00.750
+Valider définitivement le rapport national.
+
+29:00.800 --> 29:00.960
+D.
+
+29:00.960 --> 29:07.830
+Consolider et vérifier la cohérence, rapprocher du CDR, retourner les anomalies à la zone de santé.
+
+29:07.880 --> 29:11.150
+Vous avez quinze secondes pour choisir votre réponse.
+
+29:26.800 --> 29:36.950
+Au-delà de quel écart entre stock physique et stock théorique une investigation est-elle obligatoire procédure zéro deux version deux point deux A.
+
+29:37.000 --> 29:37.550
+2 %.
+
+29:37.600 --> 29:37.760
+B.
+
+29:37.760 --> 29:38.790
+10 %.
+
+29:38.840 --> 29:40.150
+C.
+
+29:40.200 --> 29:40.360
+5 %.
+
+29:40.360 --> 29:40.750
+D.
+
+29:40.800 --> 29:42.750
+25 %.
+
+29:42.800 --> 29:46.070
+Vous avez quinze secondes pour choisir votre réponse.
+
+30:01.720 --> 30:07.830
+Une FOSA a un stock théorique de 500  et un stock physique de 430.
+
+30:07.880 --> 30:08.190
+Que fait la zone de santé A.
+
+30:08.240 --> 30:15.590
+Écart de 14 % investiguer avec le B C Z S et corriger de façon tracée avant la transmission à la D P S.
+
+30:15.640 --> 30:16.390
+B.
+
+30:16.440 --> 30:20.430
+Corriger la fiche sans trace pour qu’elle corresponde au comptage.
+
+30:20.480 --> 30:20.640
+C.
+
+30:20.640 --> 30:24.270
+Rien 14 % d’écart reste sous le seuil.
+
+30:24.320 --> 30:24.480
+D.
+
+30:24.480 --> 30:27.150
+Transmettre à la D P S qui corrigera.
+
+30:27.200 --> 30:30.470
+Vous avez quinze secondes pour choisir votre réponse.
+
+30:46.120 --> 30:50.790
+Sur 20 zones de santé, 17 ont terminé leur triangulation avant le 10.
+
+30:50.840 --> 30:54.630
+Quel est le résultat et la lecture de l’indicateur A.
+
+30:54.680 --> 30:57.870
+17 % cible non atteinte.
+
+30:57.920 --> 30:58.790
+B.
+
+30:58.840 --> 31:02.790
+85 % cible de 85 % atteinte.
+
+31:02.840 --> 31:03.590
+C.
+
+31:03.640 --> 31:06.790
+85 % cible de 95 % non atteinte.
+
+31:06.840 --> 31:07.950
+D.
+
+31:08.000 --> 31:12.630
+100 % toutes les zones de santé sont conformes.
+
+31:12.680 --> 31:15.950
+Vous avez quinze secondes pour choisir votre réponse.
+
+31:31.600 --> 31:34.270
+Une FOSA n’a pas transmis échéance le 5 malgré la relance du 6.
+
+31:34.320 --> 31:41.790
+Que prévoit la procédure zéro deux version deux point deux si la donnée manque encore le 10 A.
+
+31:41.840 --> 31:44.270
+Attendre le mois suivant.
+
+31:44.320 --> 31:44.990
+B.
+
+31:45.040 --> 31:48.430
+Saisir une estimation à la place de la FOSA.
+
+31:48.480 --> 31:48.780
+C.
+
+31:48.800 --> 31:51.950
+Suspendre la FOSA du circuit de rapportage.
+
+31:52.000 --> 31:52.160
+D.
+
+31:52.160 --> 31:54.710
+Remonter la non-réponse à la D P S.
+
+31:54.760 --> 31:58.030
+Vous avez quinze secondes pour choisir votre réponse.
+
+32:13.680 --> 32:20.790
+Une zone de santé affiche 92 % de saisie dans D H I S deux mais 14 % de soumission dans InfoMed.
+
+32:20.840 --> 32:24.110
+Le rapportage de la province est d’environ 60 %.
+
+32:24.160 --> 32:28.030
+Un chiffre de disponibilité très bas apparaît pour le CDR.
+
+32:28.080 --> 32:32.310
+Quelle est la lecture la plus prudente et la première action A.
+
+32:32.360 --> 32:35.590
+La disponibilité est excellente, l’ignorer.
+
+32:35.640 --> 32:35.800
+B.
+
+32:35.800 --> 32:38.990
+Conclure à une rupture généralisée dans la zone.
+
+32:39.040 --> 32:39.350
+C.
+
+32:39.400 --> 32:47.830
+Vérifier comptes, antivirus, formation et soumission ne pas interpréter la disponibilité tant que le rapportage reste faible.
+
+32:47.880 --> 32:48.630
+D.
+
+32:48.680 --> 32:51.510
+Supprimer la zone de santé de l’analyse du trimestre.
+
+32:51.560 --> 32:54.830
+Vous avez quinze secondes pour choisir votre réponse.
+
+33:10.480 --> 33:21.270
+Pour un produit traceur antipaludique, les cures ASAQ consommées 1 900 dépassent fortement les cas de paludisme simple traités chez les moins de 5 ans 1 200 dans la province.
+
+33:21.320 --> 33:25.910
+Quelle est la bonne conduite des UTGL du niveau provincial ? A.
+
+33:25.960 --> 33:29.190
+Ignorer l’écart les programmes ont toujours raison.
+
+33:29.240 --> 33:29.400
+B.
+
+33:29.400 --> 33:37.310
+Documenter l’écart, en discuter avec le point focal du programme et le consigner dans le rapport de triangulation avant transmission.
+
+33:37.360 --> 33:38.390
+C.
+
+33:38.440 --> 33:42.750
+Corriger la consommation logistique pour l’aligner sur les cas rapportés.
+
+33:42.800 --> 33:43.230
+D.
+
+33:43.280 --> 33:47.270
+Transmettre aux UTGL du niveau central sans rien noter.
+
+33:47.320 --> 33:50.590
+Vous avez quinze secondes pour choisir votre réponse.
+
+34:06.240 --> 34:12.790
+Faute de budget pour descendre en zone, trois data managers ont été convoqués au chef-lieu pour des entretiens déclaratifs.
+
+34:12.840 --> 34:15.310
+Leurs chiffres ne concordent pas avec les rapports.
+
+34:15.360 --> 34:20.150
+Que décidez-vous pour la période et pour le trimestre suivant A.
+
+34:20.200 --> 34:27.830
+Maintenir l’entretien à distance à titre provisoire, mais planifier une supervision physique et obtenir une ligne budgétaire dédiée.
+
+34:27.880 --> 34:28.180
+B.
+
+34:28.200 --> 34:33.990
+Accepter le déclaratif, la supervision physique n’étant pas obligatoire.
+
+34:34.040 --> 34:34.340
+C.
+
+34:34.360 --> 34:37.670
+Suspendre la collecte des données de la zone de santé.
+
+34:37.720 --> 34:38.190
+D.
+
+34:38.240 --> 34:40.910
+Demander au partenaire de saisir les données.
+
+34:40.960 --> 34:44.230
+Vous avez quinze secondes pour choisir votre réponse.
+
+34:59.880 --> 35:03.230
+Comment les quatre documents se complètent-ils A.
+
+35:03.280 --> 35:05.870
+Ils remplacent tous les pièces justificatives.
+
+35:05.920 --> 35:06.590
+B.
+
+35:06.640 --> 35:15.830
+La procédure zéro deux définit le circuit mensuel guide zéro deux, fiche technique zéro deux et aide-mémoire zéro deux organisent sa vérification sur site.
+
+35:20.360 --> 35:21.110
+C.
+
+35:21.160 --> 35:23.270
+L’aide-mémoire remplace la procédure.
+
+35:23.320 --> 35:24.030
+D.
+
+35:24.080 --> 35:27.230
+Ils portent tous exclusivement sur la saisie informatique.
+
+35:27.280 --> 35:30.550
+Vous avez quinze secondes pour choisir votre réponse.
+
+35:46.200 --> 35:51.110
+À quelle échéance la D P S consolide-t-elle et triangule-t-elle les données mensuelles A.
+
+35:51.160 --> 35:53.230
+Avant le 5.
+
+35:53.280 --> 35:53.580
+B.
+
+35:53.600 --> 35:55.110
+Avant le 10.
+
+35:55.160 --> 35:55.320
+C.
+
+35:55.320 --> 35:55.990
+Avant le 15.
+
+35:56.040 --> 35:56.340
+D.
+
+35:56.360 --> 35:56.660
+Avant le 25.
+
+35:56.680 --> 35:59.950
+Vous avez quinze secondes pour choisir votre réponse.
+
+36:15.600 --> 36:22.750
+Sur 20 produits triangulés, 17 ne présentent pas d’écart de stock supérieur à 5 %.
+
+36:26.160 --> 36:28.710
+Que conclure A.
+
+36:28.760 --> 36:33.830
+85 % cible de cohérence de 95 % atteinte.
+
+36:33.880 --> 36:34.470
+B.
+
+36:34.520 --> 36:37.110
+95 % cible atteinte.
+
+36:37.160 --> 36:37.790
+C.
+
+36:37.840 --> 36:40.670
+17 % résultat satisfaisant.
+
+36:40.720 --> 36:41.310
+D.
+
+36:41.360 --> 36:45.950
+85 % cible de cohérence de 95 % non atteinte.
+
+36:46.000 --> 36:49.270
+Vous avez quinze secondes pour choisir votre réponse.
+
+37:04.920 --> 37:08.990
+Une coupure de connexion bloque la transmission.
+
+37:09.040 --> 37:09.910
+Quelle solution est prévue A.
+
+37:09.960 --> 37:14.630
+Utiliser le secours papier ou SMS, puis ressaisir avec traçabilité.
+
+37:14.680 --> 37:15.390
+B.
+
+37:15.440 --> 37:17.310
+Remplacer les données par des zéros.
+
+37:17.360 --> 37:18.150
+C.
+
+37:18.200 --> 37:20.630
+Abandonner le rapport du mois.
+
+37:20.680 --> 37:20.840
+D.
+
+37:20.840 --> 37:23.670
+Reconstituer les chiffres de mémoire sans pièces.
+
+37:23.720 --> 37:26.990
+Vous avez quinze secondes pour choisir votre réponse.
+
+37:42.640 --> 37:45.710
+Une donnée transmise n’a aucune pièce justificative.
+
+37:45.760 --> 37:47.190
+Quelle conduite retenir A.
+
+37:47.240 --> 37:50.590
+L’approuver pour respecter le calendrier.
+
+37:50.640 --> 37:51.390
+B.
+
+37:51.440 --> 37:54.350
+Demander les pièces et faire vérifier la donnée à la source.
+
+37:54.400 --> 37:55.230
+C.
+
+37:55.280 --> 37:57.750
+La remplacer systématiquement par zéro.
+
+37:57.800 --> 37:58.550
+D.
+
+37:58.600 --> 38:01.950
+La corriger à la D P S sans consulter la structure.
+
+38:02.000 --> 38:05.270
+Vous avez quinze secondes pour choisir votre réponse.
+
+38:20.920 --> 38:27.150
+Qui porte l’approbation de la validation nationale et de l’arbitrage des anomalies critiques dans le Rassi présenté A.
+
+38:27.200 --> 38:29.950
+La Direction de l’ANAMED.
+
+38:30.000 --> 38:30.630
+B.
+
+38:30.680 --> 38:34.110
+Le comité de pilotage, seul approbateur permanent.
+
+38:34.160 --> 38:34.950
+C.
+
+38:35.000 --> 38:36.710
+Le gestionnaire de stock de la FOSA.
+
+38:36.760 --> 38:37.950
+D.
+
+38:38.000 --> 38:40.910
+Le partenaire technique à la place de l’ANAMED.
+
+38:40.960 --> 38:44.230
+Vous avez quinze secondes pour choisir votre réponse.
+
+38:59.880 --> 39:02.186
+Vous avez terminé les quinze questions.
+
+39:02.236 --> 39:03.575
+Reprenons les réponses.
+
+39:03.625 --> 39:07.199
+La bonne proposition apparaît entourée et soulignée en vert.
+
+39:07.249 --> 39:11.790
+Écoutez l’explication pour comprendre le raisonnement et retrouver la règle.
+
+39:11.840 --> 39:14.190
+Comptez un point par bonne réponse.
+
+39:17.400 --> 39:17.700
+Question 1.
+
+39:17.720 --> 39:20.430
+La bonne réponse est B.
+
+39:20.480 --> 39:23.510
+La formation sanitaire transmet avant le cinq.
+
+39:26.760 --> 39:38.390
+La zone triangule avant le dix, la Division provinciale avant le quinze, les UTGL du niveau provincial avant le vingt et les UTGL du niveau central avant le vingt-cinq.
+
+39:42.080 --> 39:42.990
+Question 2.
+
+39:43.040 --> 39:44.710
+La bonne réponse est D.
+
+39:44.760 --> 39:51.070
+La Division provinciale de la santé consolide, vérifie la cohérence et renvoie les anomalies à la zone de santé.
+
+39:54.280 --> 39:58.750
+Les données primaires et les corrections restent du ressort de la source.
+
+40:02.440 --> 40:03.230
+Question 3.
+
+40:03.280 --> 40:05.270
+La bonne réponse est C.
+
+40:05.320 --> 40:10.870
+Un écart supérieur à cinq pour cent entre stock physique et théorique appelle une investigation.
+
+40:10.920 --> 40:15.150
+Le seuil de dix pour cent concerne les comparaisons entre les autres sources.
+
+40:18.840 --> 40:19.140
+Question 4.
+
+40:19.160 --> 40:20.110
+La bonne réponse est A.
+
+40:20.160 --> 40:24.710
+La différence est de soixante-dix unités.
+
+40:27.480 --> 40:32.790
+Soixante-dix divisé par cinq cents, multiplié par cent, donne quatorze pour cent.
+
+40:32.840 --> 40:39.150
+Le seuil de cinq pour cent est dépassé investigation et correction tracée avant transmission.
+
+40:42.880 --> 40:43.790
+Question 5.
+
+40:43.840 --> 40:45.710
+La bonne réponse est B.
+
+40:45.760 --> 40:50.950
+Dix-sept divisé par vingt, multiplié par cent, donne quatre-vingt-cinq pour cent.
+
+40:51.000 --> 40:57.190
+Pour la triangulation des zones avant le dix, la cible est d’au moins quatre-vingt-cinq pour cent elle est atteinte.
+
+41:00.920 --> 41:01.790
+Question 6.
+
+41:01.840 --> 41:02.510
+La bonne réponse est D.
+
+41:02.560 --> 41:07.670
+La relance commence dès le six, après l’échéance du cinq.
+
+41:07.720 --> 41:15.990
+Si la donnée manque encore le dix, le point focal fait remonter la difficulté à la Division provinciale, conformément au circuit prévu.
+
+41:19.720 --> 41:20.590
+Question 7.
+
+41:20.640 --> 41:20.880
+La bonne réponse est C.
+
+41:20.880 --> 41:25.230
+La saisie et la soumission sont deux étapes différentes.
+
+41:25.280 --> 41:30.110
+Il faut vérifier les accès, la formation, la connectivité et les blocages techniques.
+
+41:30.160 --> 41:35.790
+Un rapportage de soixante pour cent ne permet pas d’interpréter sans réserve la disponibilité des produits.
+
+41:39.520 --> 41:40.190
+Question 8.
+
+41:40.240 --> 41:41.430
+La bonne réponse est B.
+
+41:41.480 --> 41:48.790
+Les données logistiques doivent être rapprochées de l’activité du programme pour le même produit, la même population et la même période.
+
+41:48.840 --> 41:56.710
+Un écart significatif est documenté et discuté avant la transmission, sans correction arbitraire.
+
+42:00.440 --> 42:00.740
+Question 9.
+
+42:00.760 --> 42:01.630
+La bonne réponse est A.
+
+42:01.680 --> 42:06.470
+L’appui à distance peut soutenir les équipes avec des adaptations.
+
+42:06.520 --> 42:09.230
+Il ne permet pas de confirmer un comptage physique.
+
+42:09.280 --> 42:14.350
+Il faut documenter cette limite et sécuriser les moyens de la prochaine supervision sur site.
+
+42:18.080 --> 42:18.240
+Question 10.
+
+42:18.240 --> 42:19.630
+La bonne réponse est B.
+
+42:19.680 --> 42:21.630
+La correspondance est fonctionnelle.
+
+42:21.680 --> 42:25.270
+La procédure définit le circuit mensuel de la donnée.
+
+42:25.320 --> 42:30.390
+Les documents de supervision permettent de vérifier sur site la qualité des données et des pratiques.
+
+42:34.120 --> 42:34.420
+Question 11.
+
+42:34.440 --> 42:36.270
+La bonne réponse est C.
+
+42:36.320 --> 42:44.950
+La Division provinciale intervient avant le quinze, après la triangulation de la zone attendue avant le dix.
+
+42:45.000 --> 42:51.350
+La triangulation finale provinciale intervient avant le vingt, puis la validation nationale avant le vingt-cinq.
+
+42:55.040 --> 42:55.910
+Question 12.
+
+42:55.960 --> 42:56.120
+La bonne réponse est D.
+
+42:56.120 --> 43:01.230
+Dix-sept produits sur vingt donnent quatre-vingt-cinq pour cent.
+
+43:01.280 --> 43:04.390
+Pour la cohérence, la cible est quatre-vingt-quinze pour cent.
+
+43:04.440 --> 43:09.950
+Ce seuil diffère de la cible de triangulation des zones avant le dix, qui est de quatre-vingt-cinq pour cent.
+
+43:13.640 --> 43:14.470
+Question 13.
+
+43:14.520 --> 43:15.390
+La bonne réponse est A.
+
+43:15.440 --> 43:20.430
+Le dispositif prévoit un secours papier ou par message, suivi d’une ressaisie.
+
+43:20.480 --> 43:27.590
+Il faut conserver les pièces et tracer la transmission pour éviter les omissions et les doubles saisies.
+
+43:31.360 --> 43:31.520
+Question 14.
+
+43:31.520 --> 43:32.590
+La bonne réponse est B.
+
+43:32.640 --> 43:38.950
+Une donnée doit pouvoir être reliée aux fiches de stock, aux registres ou aux pièces de mouvement.
+
+43:39.000 --> 43:45.190
+L’absence de pièces impose une vérification à la source, avec une trace des échanges et de la correction.
+
+43:48.960 --> 43:49.120
+Question 15.
+
+43:49.120 --> 43:50.030
+La bonne réponse est A.
+
+43:50.080 --> 43:54.510
+Les UTGL du niveau central sont responsables de la validation nationale.
+
+43:54.560 --> 43:56.830
+La Direction de l’ANAMED porte l’approbation.
+
+43:56.880 --> 44:01.550
+Le comité de pilotage est consulté et formule un avis stratégique pendant la transition.
+
+44:05.320 --> 44:07.039
+Merci pour votre participation.
+
+44:07.089 --> 44:11.034
+Reprenez avec votre équipe les points qui méritent d’être approfondis.
+
+44:11.084 --> 44:15.770
+Vérifiez les versions des documents de référence et appliquez le calendrier commun.
+
+44:15.820 --> 44:20.678
+Une donnée prouvée, vérifiée sur site et corrigée à la source permet de mieux décider.
+
+44:20.728 --> 44:26.670
+Choisissez maintenant une action précise, avec son responsable, son échéance et sa preuve de réalisation.
