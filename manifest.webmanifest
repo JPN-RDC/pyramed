@@ -1,0 +1,32 @@
+{
+  "name": "PYRAMED – Académie nationale des compétences en santé",
+  "short_name": "PYRAMED",
+  "description": "Plateforme de formation certifiante en chaîne d'approvisionnement des produits de santé. JPN Management Consulting pour l'ANAMED.",
+  "id": "/pyramed/",
+  "start_url": "/pyramed/#/acces",
+  "scope": "/pyramed/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#13285A",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "icone-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icone-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icone-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
