@@ -257,6 +257,8 @@ const PARC = {
  P11: [2, 'Médecin chef de zone et équipe cadre de zone', [10,12,14,15,16,23,26,27], 42], P12: [2, 'Gestionnaire des intrants de la zone de santé', [1,2,4,5,6,7,9,12,21,26,27], 51], P13: [2, 'Gestionnaire des données de la zone de santé', [9,10,11,26], 30], P14: [2, 'Administrateurs gestionnaires (BCZ, HGR, ESS)', [4,14,16,22], 30], P15: [2, 'Pharmacien hospitalier et comité pharmaco-thérapeutique', [4,5,7,9,17,21], 36], P16: [2, 'Techniciens de laboratoire', [4,7,8,21], 30], P17: [2, 'Infirmier titulaire et dispensateur du centre de santé', [4,7,9,17,18,19,21], 39],
  P18: [3, 'RECO et agents de santé communautaire des sites de soins', [19], 8], P19: [3, 'Membres des CAC et des CODESA', [20], 6], P20: [4, 'Partenaires, secteur confessionnel et privé conventionné', [], 18]
 };
+const EP = { P01:"Plan d'approvisionnement d'un produit traceur", P02:"Rapport 5 piliers d'une province avec plan CAPA", P03:"Triangulation InfoMED–DHIS2 d'un trimestre", P04:"Évaluation d'un dossier fournisseur", P05:"Revue GTM provinciale et suivi CAPA", P06:"Validation des rapports mensuels des ZS dans InfoMED", P07:"Supervision intégrée d'une zone de santé", P08:"Audit interne BPD de l'entrepôt", P09:"Réception et inventaire observés", P10:"Justification d'un fonds de roulement", P11:"Réunion de monitorage des intrants de la ZS à partir d'InfoMED", P12:"Commande et distribution mensuelles aux FOSA", P13:"Saisie dans DHIS2 (module SIGL des FOSA) et contrôle qualité des rapports avant publication dans InfoMED", P14:"Rapprochement stock physique-comptable", P15:"Inventaire et analyse de consommation d'un service", P16:"Fiche de stock et commande des réactifs", P17:"Rapport mensuel et inventaire du centre de santé", P18:"Fiche de stock du site vérifiée par l'infirmier titulaire", P19:"Suivi de la disponibilité de 5 produits traceurs", P20:"Épreuve pratique selon la fonction exercée" };
+const certCible = code => (code === 'P18' || code === 'P19') ? { label: "Attestation communautaire", cond: "évaluation orale ou pratique par l'infirmier titulaire, au nom de l'ANAMED" } : (code === 'P02' || code === 'P05') ? { label: "Certificat de praticien, puis certificat de formateur-mentor", cond: "praticien + modules MS-13 et MS-28 + 2 sessions de coaching observées" } : { label: "Certificat de praticien", cond: "tronc commun + modules du parcours + épreuve pratique validée" };
 const msCode = n => 'MS-' + String(n).padStart(2, '0');
 const tcOf = p => (p === 'P18' || p === 'P19') ? ['TC-C'] : Object.keys(TC).filter(k => k !== 'TC-C');
 const modsOf = p => [...tcOf(p), ...PARC[p][2].map(msCode)];
@@ -413,7 +415,7 @@ function route() {
 function navbar() {
   const nb = $('#navbar'); if (!ME) { nb.hidden = true; return }
   nb.hidden = false; const r = route()[0];
-  const items = isAdmin() ? [['accueil', 'Accueil'], ['catalogue', 'Catalogue'], ['formations', 'Formations vidéo'], ['pilotage', 'Pilotage'], ['evaluation', 'Épreuves pratiques'], ['feuille-de-route', 'Feuille de route'], ['verifier', 'Vérifier un certificat']]
+  const items = isAdmin() ? [['accueil', 'Accueil'], ['catalogue', 'Catalogue'], ['formations', 'Formations vidéo'], ['pilotage', 'Pilotage'], ['evaluation', 'Épreuves pratiques'], ['verifier', 'Vérifier un certificat']]
     : [['accueil', 'Accueil'], ['parcours/' + ME.parcours, 'Mon parcours'], ['formations', 'Mes formations'], ['compte', 'Mon compte'], ['verifier', 'Vérifier un certificat']];
   $('#tabs').innerHTML = items.map(([k, t]) => `<button type="button" data-go="#/${k}"${r === k.split('/')[0] ? ' aria-current="page"' : ''}>${t}</button>`).join('')
     + `<span class="who"><span><b>${esc(ME.nom)}</b> · ${isAdmin() ? '<span class="pill cur">Administrateur</span>' : esc(ME.parcours)}</span><button class="btn sec" type="button" id="logout">Se déconnecter</button></span>`;
@@ -426,7 +428,6 @@ function render() {
   const [v, a, b] = route();
   if (v === 'verifier') { navbar(); return viewVerify(a) }
   if (v === 'confidentialite') { navbar(); return viewPolitiques() }
-  if (v === 'feuille-de-route') { navbar(); return viewFeuille() }
   if (!ME) { navbar(); return v === 'motdepasse' ? viewReset() : viewGate(v === 'inscription' ? 'up' : 'in') }
   navbar();
   if (v === 'accueil' || v === 'acces' || v === 'inscription') return viewHome();
@@ -464,7 +465,7 @@ function viewGate(tab) {
       <button class="btn" type="submit">Créer mon compte</button>
     </form>
     <div id="g-msg"></div>
-    <p class="hint" style="margin-top:12px">Les mots de passe sont conservés sous forme d'empreinte chiffrée, jamais en clair. Pour vérifier un certificat sans compte : <a href="#/verifier">Vérifier un certificat</a>. <a href="#/confidentialite">Conditions d'utilisation et confidentialité</a>. <a href="#/feuille-de-route">Feuille de route du pilote</a>.</p>
+    <p class="hint" style="margin-top:12px">Les mots de passe sont conservés sous forme d'empreinte chiffrée, jamais en clair. Pour vérifier un certificat sans compte : <a href="#/verifier">Vérifier un certificat</a>. <a href="#/confidentialite">Conditions d'utilisation et confidentialité</a>. <span class="note">Démonstration : vos données restent dans ce navigateur. Les comptes nationaux multi-appareils, le registre officiel des certificats et leur signature relèvent de la plateforme installée par l'ANAMED.</span></p>
   </div></div>`;
   $('#t-in').onclick = () => go('#/acces'); $('#t-up').onclick = () => go('#/inscription');
   const msg = (t, ok) => $('#g-msg').innerHTML = `<div class="result ${ok ? 'ok' : 'no'}">${esc(t)}</div>`;
@@ -572,7 +573,7 @@ function viewParcours(code) {
   $('#app').innerHTML = `${crumbs(isAdmin() ? [['Accueil', '#/accueil'], ['Catalogue', '#/catalogue'], [code]] : [['Accueil', '#/accueil'], ['Mon parcours ' + code]])}
   <h1>Parcours ${code} – ${esc(p[1])}</h1><p class="lead">${LVL[p[0]]} · durée indicative ${p[3]} h · épreuve pratique validée par le superviseur. Cliquez sur un module pour l'ouvrir.</p>
   <div class="card"><div class="row" style="justify-content:space-between"><b>${done} module(s) validé(s) sur ${mods.length}</b><span class="meta">Seuil de réussite : 85 %</span></div><div class="bar"><i style="width:${Math.round(100 * done / mods.length)}%"></i></div></div>
-  <p class="note">Chaque module réussi donne une attestation de réussite. Le certificat de praticien du parcours est délivré quand tous les modules sont validés et que le superviseur a validé l'épreuve pratique sur la grille nationale.</p>${pratBlock(code, done, mods.length)}<h2>Modules</h2><div class="mods">${mods.map(c => { const f = formationOfModule(c), s = f ? st(f) : null, ok = s && s.test && s.test.best >= 85;
+  <p class="note">Tronc commun (9 modules) → attestation de tronc commun. Chaque module réussi donne une attestation de module. Objectif de ce parcours : <b>${certCible(code).label}</b> (${certCible(code).cond}), délivré par l'ANAMED au seuil national de 85 %.</p>${pratBlock(code, done, mods.length)}<h2>Modules</h2><div class="mods">${mods.map(c => { const f = formationOfModule(c), s = f ? st(f) : null, ok = s && s.test && s.test.best >= 85;
     return `<a class="mod" href="#/module/${c}/${code}"><b>${c}</b><div>${esc(modTitle(c))}<span class="ref">${esc(modRefs(c))}</span></div><span class="pill ${ok ? 'ok' : f ? 'vid' : ''}">${ok ? 'Validé' : f ? 'Formation vidéo disponible' : 'Contenu à produire'}</span></a>` }).join('')}</div>`;
 }
 function pratBlock(code, done, total) {
@@ -580,8 +581,8 @@ function pratBlock(code, done, total) {
   const p = store.get(pkey(ME.id, code), null), d = p && p.decision;
   setTimeout(() => { const f = $('#prat-f'); if (!f) return; f.onsubmit = e => { e.preventDefault(); const file = $('#prat-file').files[0], txt = $('#prat-txt').value.trim(); if (!file && txt.length < 40) { $('#prat-msg').innerHTML = '<div class="result no">Joignez une pièce ou décrivez la preuve (au moins 40 caractères).</div>'; return }
     store.set(pkey(ME.id, code), { uid: ME.id, nom: ME.nom, email: ME.email, province: ME.province, structure: ME.structure, parcours: code, fichier: file ? `${file.name} (${Math.max(1, Math.round(file.size / 1024))} Ko)` : '', resume: txt, remis: new Date().toISOString().slice(0, 10), decision: null }); syncUp(); render() } }, 0);
-  return `<div class="panel" style="margin-top:14px"><div class="hd"><h3 class="st">Épreuve pratique et certificat de parcours</h3><span class="pill ${d ? (d.valide ? 'ok' : '') : p ? 'cur' : ''}">${d ? (d.valide ? 'Épreuve validée' : 'À reprendre') : p ? 'Remise, en attente du superviseur' : 'À remettre'}</span></div>
-  <ol class="note" style="margin:0 0 10px;padding-left:18px"><li>Modules validés : <b>${done} sur ${total}</b></li><li>Épreuve pratique : <b>${d ? `${d.total}/20 – ${d.valide ? 'validée' : 'à reprendre'}` : p ? 'remise le ' + fmt(p.remis) : 'non remise'}</b> (seuil 17/20)</li><li>Certificat de praticien du parcours : <b>${done === total && d && d.valide ? 'délivrable par l\'ANAMED' : 'pas encore délivrable'}</b></li></ol>
+  return `<div class="panel" style="margin-top:14px"><div class="hd"><h3 class="st">Épreuve pratique : ${esc(EP[code] || 'selon la fonction exercée')}</h3><span class="pill ${d ? (d.valide ? 'ok' : '') : p ? 'cur' : ''}">${d ? (d.valide ? 'Épreuve validée' : 'À reprendre') : p ? 'Remise, en attente du superviseur' : 'À remettre'}</span></div>
+  <ol class="note" style="margin:0 0 10px;padding-left:18px"><li>Modules validés : <b>${done} sur ${total}</b></li><li>Épreuve pratique : <b>${d ? `${d.total}/20 – ${d.valide ? 'validée' : 'à reprendre'}` : p ? 'remise le ' + fmt(p.remis) : 'non remise'}</b> (seuil 17/20)</li><li>${esc(certCible(code).label)} : <b>${done === total && d && d.valide ? 'délivrable par l\'ANAMED' : 'pas encore délivrable'}</b> <span class="note">(${esc(certCible(code).cond)})</span></li></ol>
   ${d ? `<div class="result ${d.valide ? 'ok' : 'no'}">Décision du superviseur (${esc(d.par)}, ${fmt(d.le)}) : ${d.total}/20. ${esc(d.commentaire || '')}</div>` : ''}
   ${!p || (d && !d.valide) ? `<form class="gform" id="prat-f"><label>Pièce justificative (rapport, photo de fiche de stock, procès-verbal…)<input type="file" id="prat-file"></label><label>Résumé de la preuve : ce que vous avez fait, constaté et corrigé<textarea id="prat-txt" rows="4" style="font:inherit;padding:9px 10px;border:1px solid var(--line);border-radius:8px;background:var(--bg);color:var(--ink)"></textarea></label><button class="btn" type="submit">Remettre l'épreuve pratique</button><div id="prat-msg"></div><p class="hint">Démonstration : seuls le nom et la taille de la pièce sont enregistrés, dans ce navigateur.</p></form>` : ''}</div>`;
 }
@@ -595,20 +596,6 @@ function viewEvaluation() {
     <button class="btn" type="button" data-save style="margin-top:8px">Enregistrer la décision</button></div>`).join('') : '<div class="empty">Aucune épreuve pratique remise sur cet appareil.</div>'}`;
   document.querySelectorAll('[data-save]').forEach(b => b.onclick = () => { const box = b.closest('[data-k]'), k = box.dataset.k, p = store.get(k, null); const notes = [...box.querySelectorAll('select[data-c]')].map(s => +s.value), total = notes.reduce((a, c) => a + c, 0);
     p.decision = { notes, total, valide: total >= 17, commentaire: box.querySelector('[data-com]').value.trim(), par: ME.nom, le: new Date().toISOString().slice(0, 10) }; store.set(k, p); syncUp(); viewEvaluation() });
-}
-function viewFeuille() {
-  const R = [['1. Comptes et progression', 'Plateforme nationale : comptes sur serveur, reprise sur un autre appareil, mot de passe oublié par courriel, sauvegardes chiffrées et restauration testées.', 'Démonstration : données dans le navigateur.', 'Installer la plateforme nationale sur le serveur retenu par l\'ANAMED.'],
-    ['2. Registre officiel des certificats', 'Plateforme nationale : certificats émis par le serveur, registre central, code QR vérifiable depuis tout téléphone (valide, expiré ; annulé = non vérifié), données affichées limitées.', 'Démonstration : vérification sur l\'appareil qui a obtenu le certificat.', 'Validation du modèle et de la signature par l\'ANAMED.'],
-    ['3. Parcours pilote complet', 'MS-12 et MS-09 complets (pré-test, vidéo, audio, transcription, test à 85 %) ; catalogue « Pilote » / « En préparation ».', 'Fait dans les deux versions.', 'Produire les autres modules du parcours UTGL à partir des documents validés par l\'ANAMED.'],
-    ['4. Validation des compétences', 'Dépôt de la preuve, grille en 5 critères, décision tracée du superviseur, seuil 17/20 ; attestation de module distincte du certificat de parcours.', 'Fait dans les deux versions (démonstration : voir « Épreuve pratique » dans le parcours).', 'Former les superviseurs à la grille.'],
-    ['5. Cohortes et contenus', 'Rôles administrateur national, référent provincial, superviseur, apprenant ; groupes par province ; import des cohortes ; export Excel.', 'Démonstration : filtres province et structure, export Excel dans Pilotage.', 'Circuit de publication des modules avec validation et historique des versions.'],
-    ['6. Mobile et faible débit', 'Application installable, vidéo allégée, audio, transcription ; trois chemins équivalents vers le test (vidéo, audio, contrôle de lecture).', 'Fait dans les deux versions.', 'Tests de terrain sur Android et iPhone en connexion faible.']];
-  const T = [['Un apprenant reprend sa progression sur un autre appareil', 'Réussi'], ['Un superviseur examine une preuve pratique et enregistre sa décision', 'Réussi'], ['Un tiers vérifie le certificat avec le code QR depuis son téléphone', 'Réussi'], ['Le référent provincial retrouve et exporte les résultats de sa cohorte', 'Réussi']];
-  $('#app').innerHTML = `${ME ? crumbs([['Accueil', '#/accueil'], ['Feuille de route du pilote']]) : '<div class="crumbs"><a href="#/acces">← Page d\'accès</a></div>'}<h1>Feuille de route du pilote PYRAMED</h1>
-  <p class="lead">Six priorités pour passer de la démonstration au pilote institutionnel sur un parcours UTGL, avec une cohorte, un superviseur et un référent provincial. État au 24 novembre 2026.</p>
-  <div class="tbl"><table><thead><tr><th>Priorité</th><th>Réalisé (plateforme nationale)</th><th>Dans cette démonstration</th><th>Reste à faire</th></tr></thead><tbody>${R.map(r => `<tr>${r.map((c, i) => `<td style="white-space:normal;vertical-align:top">${i ? esc(c) : '<b>' + esc(c) + '</b>'}</td>`).join('')}</tr>`).join('')}</tbody></table></div>
-  <h2>Recette des quatre scénarios du pilote</h2><p class="note">Réalisée le 24 novembre 2026 sur la plateforme nationale, parcours P12, provinces de Kinshasa et du Haut-Katanga.</p>
-  <div class="tbl"><table><thead><tr><th>Scénario</th><th>Résultat</th></tr></thead><tbody>${T.map(t => `<tr><td style="white-space:normal">${esc(t[0])}</td><td><span class="pill ok">${t[1]}</span></td></tr>`).join('')}</tbody></table></div>`;
 }
 function viewModule(c, from) {
   if (!(c in TC) && !(c && MS[+c.slice(3)])) return denied('Module inconnu.');
