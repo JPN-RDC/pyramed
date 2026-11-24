@@ -866,7 +866,27 @@ async function viewPilotage() {
   $('#reg').innerHTML = certs.length ? certs.map(c => `<tr><td class="mono"><a href="#verifier=${esc(c.num)}">${esc(c.num)}</a></td><td>${esc(c.name)}</td><td>${esc((F[c.f] || {}).code || c.f)}</td><td>${esc(c.score)} %</td><td>${esc(provName(c.prov))}</td><td>${fmt(c.issued)}</td></tr>`).join('') : '<tr><td colspan="6" style="color:var(--muted)">Aucun certificat émis pour le moment.</td></tr>';
 }
 
+/* ---------- Compte apprenant de démonstration, pré-rempli (une seule fois, sans écraser les données du visiteur) ---------- */
+function seedDemo() {
+  if (store.get('demo-seed', 0)) return;
+  const id = 'demo-p12', all = accounts();
+  if (!all[id]) { all[id] = { id, role: 'apprenant', nom: 'Amina Kasongo', email: 'apprenant@anamed.test', salt: 'anamed-demo-p12-2026', hash: '9484faedea5654a497666c08d514bcad76c36262cde08d921e5e5e89117795ef', parcours: 'P12', fonction: 'Gestionnaire des intrants', structure: 'Zone de santé de Lemba', province: 'KN', cree: '2026-11-15T08:00:00.000Z', consentement: { version: POLV, date: '2026-11-15T08:00:00.000Z' } }; store.set('comptes', all); }
+  const kF01 = 'st-' + id + '-F01';
+  if (!store.get(kF01, null)) {
+    const n = Math.ceil(F.F01.evalStart / 10), watched = Array.from({ length: n }, (_, i) => i);
+    const body = 'ANAMED-CERT-2026-CD-KN-' + F.F01.mcode + '-004217', cert = { num: body + '-' + mod97(body), f: 'F01', name: 'Amina Kasongo', email: 'apprenant@anamed.test', fonction: 'Gestionnaire des intrants', structure: 'Zone de santé de Lemba', prov: 'KN', score: 93, issued: '2026-11-18', expires: '2028-11-17', shared: false };
+    store.set(kF01, { pre: 62, watched, test: { best: 93, last: 93, at: '2026-11-18T10:00:00.000Z' }, tries: 1, unlocked: false, lecture: true, cert, maj: Date.parse('2026-11-18T10:00:00.000Z') });
+    const reg = store.get('reg', []); if (!reg.some(c => c.num === cert.num)) { reg.push(cert); store.set('reg', reg); }
+  }
+  const kF02 = 'st-' + id + '-F02';
+  if (!store.get(kF02, null)) store.set(kF02, { pre: 50, watched: [0, 1, 2, 3], test: null, tries: 0, unlocked: false, lecture: false, maj: Date.parse('2026-11-20T09:00:00.000Z') });
+  const kP = 'prat-' + id + '-P12';
+  if (!store.get(kP, null)) store.set(kP, { uid: id, nom: 'Amina Kasongo', email: 'apprenant@anamed.test', province: 'KN', structure: 'Zone de santé de Lemba', parcours: 'P12', fichier: 'rapport-supervision-lemba.pdf (214 Ko)', resume: "Supervision de la pharmacie de la zone : comptage physique contradictoire mené avec le gestionnaire, rapprochement aux fiches de stock, contrôle de la rotation selon les dates de péremption, et plan d'action avec responsable et échéance pour les deux écarts relevés.", remis: '2026-11-21', decision: null });
+  store.set('demo-seed', 1);
+}
+
 /* ---------- Démarrage ---------- */
+seedDemo();
 restoreSession();
 if (!ME && !location.hash.startsWith('#verifier') && !location.hash.startsWith('#/verifier') && !location.hash.startsWith('#/inscription') && !location.hash.startsWith('#/motdepasse') && !location.hash.startsWith('#/confidentialite')) history.replaceState(null, '', '#/acces');
 render();
